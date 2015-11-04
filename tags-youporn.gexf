@@ -1,0 +1,2427 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="occurences" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="Funny" label="Funny">
+        <attvalues>
+          <attvalue for="0" value="655" />
+        </attvalues>
+      </node>
+      <node id="Hairy" label="Hairy">
+        <attvalues>
+          <attvalue for="0" value="4064" />
+        </attvalues>
+      </node>
+      <node id="Gonzo" label="Gonzo">
+        <attvalues>
+          <attvalue for="0" value="796" />
+        </attvalues>
+      </node>
+      <node id="Webcam" label="Webcam">
+        <attvalues>
+          <attvalue for="0" value="3178" />
+        </attvalues>
+      </node>
+      <node id="Vintage" label="Vintage">
+        <attvalues>
+          <attvalue for="0" value="1905" />
+        </attvalues>
+      </node>
+      <node id="Female Friendly" label="Female Friendly">
+        <attvalues>
+          <attvalue for="0" value="639" />
+        </attvalues>
+      </node>
+      <node id="Shaved" label="Shaved">
+        <attvalues>
+          <attvalue for="0" value="33115" />
+        </attvalues>
+      </node>
+      <node id="Interview" label="Interview">
+        <attvalues>
+          <attvalue for="0" value="2026" />
+        </attvalues>
+      </node>
+      <node id="Big butt" label="Big butt">
+        <attvalues>
+          <attvalue for="0" value="7584" />
+        </attvalues>
+      </node>
+      <node id="Homemade" label="Homemade">
+        <attvalues>
+          <attvalue for="0" value="594" />
+        </attvalues>
+      </node>
+      <node id="Threesome" label="Threesome">
+        <attvalues>
+          <attvalue for="0" value="12245" />
+        </attvalues>
+      </node>
+      <node id="Redhead" label="Redhead">
+        <attvalues>
+          <attvalue for="0" value="2580" />
+        </attvalues>
+      </node>
+      <node id="Fetish" label="Fetish">
+        <attvalues>
+          <attvalue for="0" value="7007" />
+        </attvalues>
+      </node>
+      <node id="Shemale" label="Shemale">
+        <attvalues>
+          <attvalue for="0" value="5666" />
+        </attvalues>
+      </node>
+      <node id="Panties" label="Panties">
+        <attvalues>
+          <attvalue for="0" value="1349" />
+        </attvalues>
+      </node>
+      <node id="Anal" label="Anal">
+        <attvalues>
+          <attvalue for="0" value="32268" />
+        </attvalues>
+      </node>
+      <node id="Ebony" label="Ebony">
+        <attvalues>
+          <attvalue for="0" value="6263" />
+        </attvalues>
+      </node>
+      <node id="European" label="European">
+        <attvalues>
+          <attvalue for="0" value="9220" />
+        </attvalues>
+      </node>
+      <node id="Teen" label="Teen">
+        <attvalues>
+          <attvalue for="0" value="20542" />
+        </attvalues>
+      </node>
+      <node id="Solo Male" label="Solo Male">
+        <attvalues>
+          <attvalue for="0" value="33763" />
+        </attvalues>
+      </node>
+      <node id="Cunnilingus" label="Cunnilingus">
+        <attvalues>
+          <attvalue for="0" value="7861" />
+        </attvalues>
+      </node>
+      <node id="Amateur" label="Amateur">
+        <attvalues>
+          <attvalue for="0" value="61828" />
+        </attvalues>
+      </node>
+      <node id="Gay" label="Gay">
+        <attvalues>
+          <attvalue for="0" value="15453" />
+        </attvalues>
+      </node>
+      <node id="POV" label="POV">
+        <attvalues>
+          <attvalue for="0" value="4415" />
+        </attvalues>
+      </node>
+      <node id="Compilation" label="Compilation">
+        <attvalues>
+          <attvalue for="0" value="1701" />
+        </attvalues>
+      </node>
+      <node id="Big tits" label="Big tits">
+        <attvalues>
+          <attvalue for="0" value="23703" />
+        </attvalues>
+      </node>
+      <node id="Public" label="Public">
+        <attvalues>
+          <attvalue for="0" value="4951" />
+        </attvalues>
+      </node>
+      <node id="Blowjob" label="Blowjob">
+        <attvalues>
+          <attvalue for="0" value="38460" />
+        </attvalues>
+      </node>
+      <node id="Creampie" label="Creampie">
+        <attvalues>
+          <attvalue for="0" value="3828" />
+        </attvalues>
+      </node>
+      <node id="DP" label="DP">
+        <attvalues>
+          <attvalue for="0" value="3221" />
+        </attvalues>
+      </node>
+      <node id="Facial" label="Facial">
+        <attvalues>
+          <attvalue for="0" value="8975" />
+        </attvalues>
+      </node>
+      <node id="College" label="College">
+        <attvalues>
+          <attvalue for="0" value="1606" />
+        </attvalues>
+      </node>
+      <node id="3D" label="3D">
+        <attvalues>
+          <attvalue for="0" value="234" />
+        </attvalues>
+      </node>
+      <node id="Lesbian" label="Lesbian">
+        <attvalues>
+          <attvalue for="0" value="12562" />
+        </attvalues>
+      </node>
+      <node id="HD" label="HD">
+        <attvalues>
+          <attvalue for="0" value="23216" />
+        </attvalues>
+      </node>
+      <node id="Solo girl" label="Solo girl">
+        <attvalues>
+          <attvalue for="0" value="19487" />
+        </attvalues>
+      </node>
+      <node id="Instructional" label="Instructional">
+        <attvalues>
+          <attvalue for="0" value="779" />
+        </attvalues>
+      </node>
+      <node id="Romantic" label="Romantic">
+        <attvalues>
+          <attvalue for="0" value="2048" />
+        </attvalues>
+      </node>
+      <node id="Voyeur" label="Voyeur">
+        <attvalues>
+          <attvalue for="0" value="2534" />
+        </attvalues>
+      </node>
+      <node id="MILF" label="MILF">
+        <attvalues>
+          <attvalue for="0" value="8934" />
+        </attvalues>
+      </node>
+      <node id="Interracial" label="Interracial">
+        <attvalues>
+          <attvalue for="0" value="7023" />
+        </attvalues>
+      </node>
+      <node id="Orgy" label="Orgy">
+        <attvalues>
+          <attvalue for="0" value="8857" />
+        </attvalues>
+      </node>
+      <node id="Mature" label="Mature">
+        <attvalues>
+          <attvalue for="0" value="7666" />
+        </attvalues>
+      </node>
+      <node id="BBW" label="BBW">
+        <attvalues>
+          <attvalue for="0" value="5146" />
+        </attvalues>
+      </node>
+      <node id="Kissing" label="Kissing">
+        <attvalues>
+          <attvalue for="0" value="3675" />
+        </attvalues>
+      </node>
+      <node id="Swallow" label="Swallow">
+        <attvalues>
+          <attvalue for="0" value="4049" />
+        </attvalues>
+      </node>
+      <node id="Young/Old" label="Young/Old">
+        <attvalues>
+          <attvalue for="0" value="7091" />
+        </attvalues>
+      </node>
+      <node id="Massage" label="Massage">
+        <attvalues>
+          <attvalue for="0" value="661" />
+        </attvalues>
+      </node>
+      <node id="Masturbation" label="Masturbation">
+        <attvalues>
+          <attvalue for="0" value="22918" />
+        </attvalues>
+      </node>
+      <node id="CATEGORY" label="CATEGORY">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Cumshots" label="Cumshots">
+        <attvalues>
+          <attvalue for="0" value="14444" />
+        </attvalues>
+      </node>
+      <node id="Brunette" label="Brunette">
+        <attvalues>
+          <attvalue for="0" value="34095" />
+        </attvalues>
+      </node>
+      <node id="Squirting" label="Squirting">
+        <attvalues>
+          <attvalue for="0" value="2735" />
+        </attvalues>
+      </node>
+      <node id="Straight Sex" label="Straight Sex">
+        <attvalues>
+          <attvalue for="0" value="34380" />
+        </attvalues>
+      </node>
+      <node id="German" label="German">
+        <attvalues>
+          <attvalue for="0" value="14912" />
+        </attvalues>
+      </node>
+      <node id="Bisexual" label="Bisexual">
+        <attvalues>
+          <attvalue for="0" value="1853" />
+        </attvalues>
+      </node>
+      <node id="Dildos/Toys" label="Dildos/Toys">
+        <attvalues>
+          <attvalue for="0" value="13102" />
+        </attvalues>
+      </node>
+      <node id="Handjob" label="Handjob">
+        <attvalues>
+          <attvalue for="0" value="3364" />
+        </attvalues>
+      </node>
+      <node id="Couples" label="Couples">
+        <attvalues>
+          <attvalue for="0" value="10701" />
+        </attvalues>
+      </node>
+      <node id="Fantasy" label="Fantasy">
+        <attvalues>
+          <attvalue for="0" value="3027" />
+        </attvalues>
+      </node>
+      <node id="Fingering" label="Fingering">
+        <attvalues>
+          <attvalue for="0" value="13091" />
+        </attvalues>
+      </node>
+      <node id="Asian" label="Asian">
+        <attvalues>
+          <attvalue for="0" value="12094" />
+        </attvalues>
+      </node>
+      <node id="Blonde" label="Blonde">
+        <attvalues>
+          <attvalue for="0" value="26532" />
+        </attvalues>
+      </node>
+      <node id="Hentai" label="Hentai">
+        <attvalues>
+          <attvalue for="0" value="1153" />
+        </attvalues>
+      </node>
+      <node id="Rimming" label="Rimming">
+        <attvalues>
+          <attvalue for="0" value="1079" />
+        </attvalues>
+      </node>
+      <node id="Pantyhose" label="Pantyhose">
+        <attvalues>
+          <attvalue for="0" value="1620" />
+        </attvalues>
+      </node>
+      <node id="Latina" label="Latina">
+        <attvalues>
+          <attvalue for="0" value="3794" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Funny" target="Hairy" weight="0.00276243093923" />
+      <edge id="1" source="Funny" target="Gonzo" weight="0.0529753265602" />
+      <edge id="2" source="Funny" target="Webcam" weight="0.00524521374246" />
+      <edge id="3" source="Funny" target="Vintage" weight="0.00589390962672" />
+      <edge id="4" source="Funny" target="Shaved" weight="0.0036556007965" />
+      <edge id="5" source="Funny" target="Redhead" weight="0.00434647624961" />
+      <edge id="6" source="Funny" target="Big butt" weight="0.0110442999141" />
+      <edge id="7" source="Funny" target="Homemade" weight="0.000801282051282" />
+      <edge id="8" source="Funny" target="Kissing" weight="0.00838379133675" />
+      <edge id="9" source="Funny" target="Interview" weight="0.0268096514745" />
+      <edge id="10" source="Funny" target="Fetish" weight="0.00988533017003" />
+      <edge id="11" source="Funny" target="Shemale" weight="0.001584534939" />
+      <edge id="12" source="Funny" target="Panties" weight="0.0110998990918" />
+      <edge id="13" source="Funny" target="Public" weight="0.0142934684277" />
+      <edge id="14" source="Funny" target="DP" weight="0.0036250647333" />
+      <edge id="15" source="Funny" target="European" weight="0.00376092701769" />
+      <edge id="16" source="Funny" target="Solo girl" weight="0.00549121405751" />
+      <edge id="17" source="Funny" target="Solo Male" weight="0.000959720808492" />
+      <edge id="18" source="Funny" target="Cunnilingus" weight="0.00483775811209" />
+      <edge id="19" source="Funny" target="Amateur" weight="0.00379134737417" />
+      <edge id="20" source="Funny" target="Gay" weight="0.000994282873478" />
+      <edge id="21" source="Funny" target="POV" weight="0.0135945621751" />
+      <edge id="22" source="Funny" target="Compilation" weight="0.00769888793841" />
+      <edge id="23" source="Funny" target="Big tits" weight="0.00424654710369" />
+      <edge id="24" source="Funny" target="Blowjob" weight="0.00325741253719" />
+      <edge id="25" source="Funny" target="Creampie" weight="0.00358182225207" />
+      <edge id="26" source="Funny" target="HD" weight="0.000880503144654" />
+      <edge id="27" source="Funny" target="Facial" weight="0.00459002712289" />
+      <edge id="28" source="Funny" target="College" weight="0.0116331096197" />
+      <edge id="29" source="Funny" target="Lesbian" weight="0.00189508793208" />
+      <edge id="30" source="Funny" target="Teen" weight="0.00531183305668" />
+      <edge id="31" source="Funny" target="Instructional" weight="0.0105708245243" />
+      <edge id="32" source="Funny" target="Romantic" weight="0.00971236458722" />
+      <edge id="33" source="Funny" target="Swallow" weight="0.00469884664673" />
+      <edge id="34" source="Funny" target="Voyeur" weight="0.0221153846154" />
+      <edge id="35" source="Funny" target="Cumshots" weight="0.00485824570744" />
+      <edge id="36" source="Funny" target="Interracial" weight="0.00274258848113" />
+      <edge id="37" source="Funny" target="Orgy" weight="0.0016849199663" />
+      <edge id="38" source="Funny" target="Mature" weight="0.00265092179781" />
+      <edge id="39" source="Funny" target="BBW" weight="0.00519840582221" />
+      <edge id="40" source="Funny" target="Threesome" weight="0.00178613030985" />
+      <edge id="41" source="Funny" target="Anal" weight="0.00194771599866" />
+      <edge id="42" source="Funny" target="Young/Old" weight="0.0129462534327" />
+      <edge id="43" source="Funny" target="Massage" weight="0.00152207001522" />
+      <edge id="44" source="Funny" target="Masturbation" weight="0.00430299931834" />
+      <edge id="45" source="Funny" target="MILF" weight="0.00167136738744" />
+      <edge id="46" source="Funny" target="Brunette" weight="0.00355214139255" />
+      <edge id="47" source="Funny" target="Squirting" weight="0.00563630970039" />
+      <edge id="48" source="Funny" target="Straight Sex" weight="0.00366688629788" />
+      <edge id="49" source="Funny" target="German" weight="0.00225341231007" />
+      <edge id="50" source="Funny" target="Bisexual" weight="0.00722891566265" />
+      <edge id="51" source="Funny" target="Dildos/Toys" weight="0.00798651817116" />
+      <edge id="52" source="Funny" target="Handjob" weight="0.0131081421729" />
+      <edge id="53" source="Funny" target="Couples" weight="0.00238326418925" />
+      <edge id="54" source="Funny" target="Fantasy" weight="0.021359223301" />
+      <edge id="55" source="Funny" target="Fingering" weight="0.00622209208696" />
+      <edge id="56" source="Funny" target="Asian" weight="0.00291063561989" />
+      <edge id="57" source="Funny" target="Pantyhose" weight="0.00441501103753" />
+      <edge id="58" source="Funny" target="Blonde" weight="0.0043963351559" />
+      <edge id="59" source="Funny" target="Hentai" weight="0.00780379041249" />
+      <edge id="60" source="Funny" target="Rimming" weight="0.00638421358096" />
+      <edge id="61" source="Funny" target="Ebony" weight="0.00202780996524" />
+      <edge id="62" source="Funny" target="Latina" weight="0.00406228842248" />
+      <edge id="63" source="Hairy" target="Gonzo" weight="0.00454733360893" />
+      <edge id="64" source="Hairy" target="Webcam" weight="0.00429898765775" />
+      <edge id="65" source="Hairy" target="Vintage" weight="0.058896576193" />
+      <edge id="66" source="Hairy" target="Female Friendly" weight="0.000212675457252" />
+      <edge id="67" source="Hairy" target="Shaved" weight="0.00600698108613" />
+      <edge id="68" source="Hairy" target="Interview" weight="0.0049504950495" />
+      <edge id="69" source="Hairy" target="Big butt" weight="0.0135746606335" />
+      <edge id="70" source="Hairy" target="Homemade" weight="0.00236711857112" />
+      <edge id="71" source="Hairy" target="Threesome" weight="0.0192487969502" />
+      <edge id="72" source="Hairy" target="Redhead" weight="0.0227832512315" />
+      <edge id="73" source="Hairy" target="Fetish" weight="0.00608869501999" />
+      <edge id="74" source="Hairy" target="Shemale" weight="0.000719942404608" />
+      <edge id="75" source="Hairy" target="Panties" weight="0.00650799553737" />
+      <edge id="76" source="Hairy" target="Public" weight="0.00591385851372" />
+      <edge id="77" source="Hairy" target="HD" weight="0.0124703087886" />
+      <edge id="78" source="Hairy" target="European" weight="0.0248418453942" />
+      <edge id="79" source="Hairy" target="Solo girl" weight="0.0291020318986" />
+      <edge id="80" source="Hairy" target="Solo Male" weight="0.00113804785094" />
+      <edge id="81" source="Hairy" target="Cunnilingus" weight="0.0338997745795" />
+      <edge id="82" source="Hairy" target="Amateur" weight="0.0132554205751" />
+      <edge id="83" source="Hairy" target="Gay" weight="0.0119776003318" />
+      <edge id="84" source="Hairy" target="POV" weight="0.00700712589074" />
+      <edge id="85" source="Hairy" target="Compilation" weight="0.00681103737338" />
+      <edge id="86" source="Hairy" target="Big tits" weight="0.0159897548482" />
+      <edge id="87" source="Hairy" target="Blowjob" weight="0.0135138355936" />
+      <edge id="88" source="Hairy" target="Creampie" weight="0.0262678803641" />
+      <edge id="89" source="Hairy" target="DP" weight="0.0116650465213" />
+      <edge id="90" source="Hairy" target="Facial" weight="0.0101487449644" />
+      <edge id="91" source="Hairy" target="College" weight="0.00585417775412" />
+      <edge id="92" source="Hairy" target="Lesbian" weight="0.00916540212443" />
+      <edge id="93" source="Hairy" target="Teen" weight="0.0118014721" />
+      <edge id="94" source="Hairy" target="Instructional" weight="0.00331468821214" />
+      <edge id="95" source="Hairy" target="Romantic" weight="0.00958044268252" />
+      <edge id="96" source="Hairy" target="Swallow" weight="0.00458147597821" />
+      <edge id="97" source="Hairy" target="Voyeur" weight="0.00671345743058" />
+      <edge id="98" source="Hairy" target="MILF" weight="0.0335559796438" />
+      <edge id="99" source="Hairy" target="Interracial" weight="0.0114030286444" />
+      <edge id="100" source="Hairy" target="Orgy" weight="0.0141276194961" />
+      <edge id="101" source="Hairy" target="Mature" weight="0.048632218845" />
+      <edge id="102" source="Hairy" target="BBW" weight="0.0183547103052" />
+      <edge id="103" source="Hairy" target="Kissing" weight="0.0138870693043" />
+      <edge id="104" source="Hairy" target="Anal" weight="0.0211354693648" />
+      <edge id="105" source="Hairy" target="Young/Old" weight="0.0335402575744" />
+      <edge id="106" source="Hairy" target="Massage" weight="0.000211685012701" />
+      <edge id="107" source="Hairy" target="Masturbation" weight="0.0280423683609" />
+      <edge id="108" source="Hairy" target="Cumshots" weight="0.0130268199234" />
+      <edge id="109" source="Hairy" target="Brunette" weight="0.0335590465872" />
+      <edge id="110" source="Hairy" target="Squirting" weight="0.0119065337104" />
+      <edge id="111" source="Hairy" target="Straight Sex" weight="0.0381852551985" />
+      <edge id="112" source="Hairy" target="German" weight="0.0366000218508" />
+      <edge id="113" source="Hairy" target="Bisexual" weight="0.00390227349847" />
+      <edge id="114" source="Hairy" target="Dildos/Toys" weight="0.0234915335082" />
+      <edge id="115" source="Hairy" target="Handjob" weight="0.00609508329947" />
+      <edge id="116" source="Hairy" target="Couples" weight="0.0186973920243" />
+      <edge id="117" source="Hairy" target="Fantasy" weight="0.00824683634295" />
+      <edge id="118" source="Hairy" target="Fingering" weight="0.0361176541644" />
+      <edge id="119" source="Hairy" target="Asian" weight="0.0249936564324" />
+      <edge id="120" source="Hairy" target="Pantyhose" weight="0.00566171266808" />
+      <edge id="121" source="Hairy" target="Blonde" weight="0.0115383343803" />
+      <edge id="122" source="Hairy" target="Hentai" weight="0.00172811059908" />
+      <edge id="123" source="Hairy" target="Rimming" weight="0.00744368266405" />
+      <edge id="124" source="Hairy" target="Ebony" weight="0.00770882123341" />
+      <edge id="125" source="Hairy" target="Latina" weight="0.0109352888203" />
+      <edge id="126" source="Gonzo" target="Webcam" weight="0.00302877334679" />
+      <edge id="127" source="Gonzo" target="Vintage" weight="0.00521027167845" />
+      <edge id="128" source="Gonzo" target="Shaved" weight="0.0156643105307" />
+      <edge id="129" source="Gonzo" target="Redhead" weight="0.0107784431138" />
+      <edge id="130" source="Gonzo" target="Big butt" weight="0.0147735529184" />
+      <edge id="131" source="Gonzo" target="Homemade" weight="0.00216294160058" />
+      <edge id="132" source="Gonzo" target="Kissing" weight="0.010395480226" />
+      <edge id="133" source="Gonzo" target="Interview" weight="0.171926910299" />
+      <edge id="134" source="Gonzo" target="Fetish" weight="0.00398867730314" />
+      <edge id="135" source="Gonzo" target="Shemale" weight="0.00139470013947" />
+      <edge id="136" source="Gonzo" target="Panties" weight="0.0132262635805" />
+      <edge id="137" source="Gonzo" target="Swallow" weight="0.0352564102564" />
+      <edge id="138" source="Gonzo" target="DP" weight="0.00550688360451" />
+      <edge id="139" source="Gonzo" target="European" weight="0.00876221170309" />
+      <edge id="140" source="Gonzo" target="Solo girl" weight="0.00405920498985" />
+      <edge id="141" source="Gonzo" target="Solo Male" weight="0.000289443978118" />
+      <edge id="142" source="Gonzo" target="Cunnilingus" weight="0.00721349621873" />
+      <edge id="143" source="Gonzo" target="Amateur" weight="0.00962484079514" />
+      <edge id="144" source="Gonzo" target="Gay" weight="0.000923986694592" />
+      <edge id="145" source="Gonzo" target="POV" weight="0.0728844966028" />
+      <edge id="146" source="Gonzo" target="Compilation" weight="0.00888888888889" />
+      <edge id="147" source="Gonzo" target="Big tits" weight="0.00644975762057" />
+      <edge id="148" source="Gonzo" target="Public" weight="0.0101951133767" />
+      <edge id="149" source="Gonzo" target="Blowjob" weight="0.0130319217569" />
+      <edge id="150" source="Gonzo" target="Creampie" weight="0.0194003527337" />
+      <edge id="151" source="Gonzo" target="HD" weight="0.00296562382524" />
+      <edge id="152" source="Gonzo" target="Facial" weight="0.0291763218875" />
+      <edge id="153" source="Gonzo" target="College" weight="0.0126475548061" />
+      <edge id="154" source="Gonzo" target="Lesbian" weight="0.0017999100045" />
+      <edge id="155" source="Gonzo" target="Teen" weight="0.0202735010041" />
+      <edge id="156" source="Gonzo" target="Instructional" weight="0.00961538461538" />
+      <edge id="157" source="Gonzo" target="Romantic" weight="0.0113798008535" />
+      <edge id="158" source="Gonzo" target="Voyeur" weight="0.01062215478" />
+      <edge id="159" source="Gonzo" target="MILF" weight="0.00485386760302" />
+      <edge id="160" source="Gonzo" target="Interracial" weight="0.00501285347044" />
+      <edge id="161" source="Gonzo" target="Orgy" weight="0.0044745057232" />
+      <edge id="162" source="Gonzo" target="Mature" weight="0.00320094842916" />
+      <edge id="163" source="Gonzo" target="BBW" weight="0.00456466610313" />
+      <edge id="164" source="Gonzo" target="Threesome" weight="0.00462214005084" />
+      <edge id="165" source="Gonzo" target="Anal" weight="0.00657574281539" />
+      <edge id="166" source="Gonzo" target="Young/Old" weight="0.0133624566363" />
+      <edge id="167" source="Gonzo" target="Massage" weight="0.00137457044674" />
+      <edge id="168" source="Gonzo" target="Masturbation" weight="0.00431983737083" />
+      <edge id="169" source="Gonzo" target="Cumshots" weight="0.011213589012" />
+      <edge id="170" source="Gonzo" target="Brunette" weight="0.0131834944972" />
+      <edge id="171" source="Gonzo" target="Squirting" weight="0.00856898029135" />
+      <edge id="172" source="Gonzo" target="Straight Sex" weight="0.0160013864017" />
+      <edge id="173" source="Gonzo" target="German" weight="0.00165795179186" />
+      <edge id="174" source="Gonzo" target="Bisexual" weight="0.00799086757991" />
+      <edge id="175" source="Gonzo" target="Dildos/Toys" weight="0.00666376937563" />
+      <edge id="176" source="Gonzo" target="Handjob" weight="0.00750787115524" />
+      <edge id="177" source="Gonzo" target="Couples" weight="0.00630196936543" />
+      <edge id="178" source="Gonzo" target="Fantasy" weight="0.0129835718071" />
+      <edge id="179" source="Gonzo" target="Fingering" weight="0.00791116272318" />
+      <edge id="180" source="Gonzo" target="Asian" weight="0.00334708492255" />
+      <edge id="181" source="Gonzo" target="Pantyhose" weight="0.00666666666667" />
+      <edge id="182" source="Gonzo" target="Blonde" weight="0.0090462651848" />
+      <edge id="183" source="Gonzo" target="Hentai" weight="0.00619514713474" />
+      <edge id="184" source="Gonzo" target="Rimming" weight="0.0201305767138" />
+      <edge id="185" source="Gonzo" target="Ebony" weight="0.00369685767098" />
+      <edge id="186" source="Gonzo" target="Latina" weight="0.00657894736842" />
+      <edge id="187" source="Webcam" target="Vintage" weight="0.00216876971609" />
+      <edge id="188" source="Webcam" target="Shaved" weight="0.0168954889325" />
+      <edge id="189" source="Webcam" target="Redhead" weight="0.00436071864643" />
+      <edge id="190" source="Webcam" target="Big butt" weight="0.00682945083731" />
+      <edge id="191" source="Webcam" target="Homemade" weight="0.00239170874302" />
+      <edge id="192" source="Webcam" target="Kissing" weight="0.00366139425893" />
+      <edge id="193" source="Webcam" target="Interview" weight="0.0042454650714" />
+      <edge id="194" source="Webcam" target="Fetish" weight="0.00236197224683" />
+      <edge id="195" source="Webcam" target="Shemale" weight="0.00181241504304" />
+      <edge id="196" source="Webcam" target="Panties" weight="0.0125251621561" />
+      <edge id="197" source="Webcam" target="Public" weight="0.00271370420624" />
+      <edge id="198" source="Webcam" target="HD" weight="0.0048349640233" />
+      <edge id="199" source="Webcam" target="European" weight="0.00315559511287" />
+      <edge id="200" source="Webcam" target="Solo girl" weight="0.0584691542521" />
+      <edge id="201" source="Webcam" target="Solo Male" weight="0.00295938314509" />
+      <edge id="202" source="Webcam" target="Cunnilingus" weight="0.00208787218591" />
+      <edge id="203" source="Webcam" target="Amateur" weight="0.0186154376508" />
+      <edge id="204" source="Webcam" target="Gay" weight="0.00112842557765" />
+      <edge id="205" source="Webcam" target="POV" weight="0.00264096130992" />
+      <edge id="206" source="Webcam" target="Compilation" weight="0.00390946502058" />
+      <edge id="207" source="Webcam" target="Big tits" weight="0.0106019023272" />
+      <edge id="208" source="Webcam" target="Blowjob" weight="0.0011541235874" />
+      <edge id="209" source="Webcam" target="Creampie" weight="0.00315005727377" />
+      <edge id="210" source="Webcam" target="DP" weight="0.00234962406015" />
+      <edge id="211" source="Webcam" target="Facial" weight="0.00156584803033" />
+      <edge id="212" source="Webcam" target="College" weight="0.0107754067188" />
+      <edge id="213" source="Webcam" target="Lesbian" weight="0.00216477779193" />
+      <edge id="214" source="Webcam" target="Teen" weight="0.0262622766409" />
+      <edge id="215" source="Webcam" target="Instructional" weight="0.00610221205187" />
+      <edge id="216" source="Webcam" target="Romantic" weight="0.00480676792924" />
+      <edge id="217" source="Webcam" target="Swallow" weight="0.00375" />
+      <edge id="218" source="Webcam" target="Voyeur" weight="0.0075851120127" />
+      <edge id="219" source="Webcam" target="Cumshots" weight="0.002161055505" />
+      <edge id="220" source="Webcam" target="Interracial" weight="0.00147260946397" />
+      <edge id="221" source="Webcam" target="Orgy" weight="0.00133122555953" />
+      <edge id="222" source="Webcam" target="Mature" weight="0.00277418161642" />
+      <edge id="223" source="Webcam" target="BBW" weight="0.00604302634759" />
+      <edge id="224" source="Webcam" target="Threesome" weight="0.00194893782888" />
+      <edge id="225" source="Webcam" target="Anal" weight="0.00461978856673" />
+      <edge id="226" source="Webcam" target="Young/Old" weight="0.00469621367772" />
+      <edge id="227" source="Webcam" target="Massage" weight="0.000260552371027" />
+      <edge id="228" source="Webcam" target="Masturbation" weight="0.0332185136794" />
+      <edge id="229" source="Webcam" target="MILF" weight="0.00306418219462" />
+      <edge id="230" source="Webcam" target="Brunette" weight="0.0176650466881" />
+      <edge id="231" source="Webcam" target="Squirting" weight="0.0102511532547" />
+      <edge id="232" source="Webcam" target="Straight Sex" weight="0.00192071706771" />
+      <edge id="233" source="Webcam" target="German" weight="0.00204952085526" />
+      <edge id="234" source="Webcam" target="Bisexual" weight="0.00519480519481" />
+      <edge id="235" source="Webcam" target="Dildos/Toys" weight="0.0199862164025" />
+      <edge id="236" source="Webcam" target="Handjob" weight="0.00399017802333" />
+      <edge id="237" source="Webcam" target="Couples" weight="0.00397858796296" />
+      <edge id="238" source="Webcam" target="Fantasy" weight="0.00453294479521" />
+      <edge id="239" source="Webcam" target="Fingering" weight="0.035450610998" />
+      <edge id="240" source="Webcam" target="Asian" weight="0.00500131613583" />
+      <edge id="241" source="Webcam" target="Pantyhose" weight="0.00397572713957" />
+      <edge id="242" source="Webcam" target="Blonde" weight="0.0071186440678" />
+      <edge id="243" source="Webcam" target="Hentai" weight="0.00185056673606" />
+      <edge id="244" source="Webcam" target="Rimming" weight="0.00259067357513" />
+      <edge id="245" source="Webcam" target="Ebony" weight="0.00350765306122" />
+      <edge id="246" source="Webcam" target="Latina" weight="0.00897250361795" />
+      <edge id="247" source="Vintage" target="Shaved" weight="0.00165894399634" />
+      <edge id="248" source="Vintage" target="Interview" weight="0.00280612244898" />
+      <edge id="249" source="Vintage" target="Big butt" weight="0.00242974857384" />
+      <edge id="250" source="Vintage" target="Homemade" weight="0.000400320256205" />
+      <edge id="251" source="Vintage" target="Threesome" weight="0.0113644485741" />
+      <edge id="252" source="Vintage" target="Redhead" weight="0.00741239892183" />
+      <edge id="253" source="Vintage" target="Fetish" weight="0.00179856115108" />
+      <edge id="254" source="Vintage" target="Shemale" weight="0.00105778130372" />
+      <edge id="255" source="Vintage" target="Panties" weight="0.00556242274413" />
+      <edge id="256" source="Vintage" target="Public" weight="0.00263234863995" />
+      <edge id="257" source="Vintage" target="DP" weight="0.00549234994115" />
+      <edge id="258" source="Vintage" target="European" weight="0.00442397977609" />
+      <edge id="259" source="Vintage" target="Solo Male" weight="0.000252390700805" />
+      <edge id="260" source="Vintage" target="Cunnilingus" weight="0.026271542665" />
+      <edge id="261" source="Vintage" target="Amateur" weight="0.00135120272754" />
+      <edge id="262" source="Vintage" target="Gay" weight="0.00579441418473" />
+      <edge id="263" source="Vintage" target="POV" weight="0.00237906423473" />
+      <edge id="264" source="Vintage" target="Compilation" weight="0.00810735253005" />
+      <edge id="265" source="Vintage" target="Big tits" weight="0.00585254723281" />
+      <edge id="266" source="Vintage" target="Blowjob" weight="0.0071359065845" />
+      <edge id="267" source="Vintage" target="Creampie" weight="0.00402802101576" />
+      <edge id="268" source="Vintage" target="HD" weight="0.00111584904157" />
+      <edge id="269" source="Vintage" target="Facial" weight="0.00341233975837" />
+      <edge id="270" source="Vintage" target="College" weight="0.00544100801833" />
+      <edge id="271" source="Vintage" target="Lesbian" weight="0.00675017397356" />
+      <edge id="272" source="Vintage" target="Teen" weight="0.00272491735906" />
+      <edge id="273" source="Vintage" target="Instructional" weight="0.00524344569288" />
+      <edge id="274" source="Vintage" target="Romantic" weight="0.00919070717386" />
+      <edge id="275" source="Vintage" target="Swallow" weight="0.00438596491228" />
+      <edge id="276" source="Vintage" target="Voyeur" weight="0.00452591083956" />
+      <edge id="277" source="Vintage" target="Solo girl" weight="0.000842144661739" />
+      <edge id="278" source="Vintage" target="Cumshots" weight="0.0055353957808" />
+      <edge id="279" source="Vintage" target="Interracial" weight="0.0065388951522" />
+      <edge id="280" source="Vintage" target="Orgy" weight="0.00607647003833" />
+      <edge id="281" source="Vintage" target="Mature" weight="0.00430220356768" />
+      <edge id="282" source="Vintage" target="BBW" weight="0.00370106761566" />
+      <edge id="283" source="Vintage" target="Kissing" weight="0.00667508569367" />
+      <edge id="284" source="Vintage" target="Anal" weight="0.00579821050153" />
+      <edge id="285" source="Vintage" target="Young/Old" weight="0.0121512151215" />
+      <edge id="286" source="Vintage" target="Massage" weight="0.0015612802498" />
+      <edge id="287" source="Vintage" target="Masturbation" weight="0.00121001895696" />
+      <edge id="288" source="Vintage" target="MILF" weight="0.00519335991839" />
+      <edge id="289" source="Vintage" target="Brunette" weight="0.00665510877468" />
+      <edge id="290" source="Vintage" target="Squirting" weight="0.00324324324324" />
+      <edge id="291" source="Vintage" target="Straight Sex" weight="0.0139440004471" />
+      <edge id="292" source="Vintage" target="German" weight="0.00364048698974" />
+      <edge id="293" source="Vintage" target="Bisexual" weight="0.00561948086701" />
+      <edge id="294" source="Vintage" target="Dildos/Toys" weight="0.00213689482471" />
+      <edge id="295" source="Vintage" target="Handjob" weight="0.00400152439024" />
+      <edge id="296" source="Vintage" target="Couples" weight="0.00614574187884" />
+      <edge id="297" source="Vintage" target="Fantasy" weight="0.00900163666121" />
+      <edge id="298" source="Vintage" target="Fingering" weight="0.00233941581445" />
+      <edge id="299" source="Vintage" target="Asian" weight="0.00250644514466" />
+      <edge id="300" source="Vintage" target="Pantyhose" weight="0.00341588385995" />
+      <edge id="301" source="Vintage" target="Blonde" weight="0.0058005871326" />
+      <edge id="302" source="Vintage" target="Hentai" weight="0.00262295081967" />
+      <edge id="303" source="Vintage" target="Rimming" weight="0.0047138047138" />
+      <edge id="304" source="Vintage" target="Ebony" weight="0.0040565457898" />
+      <edge id="305" source="Vintage" target="Latina" weight="0.00228631727049" />
+      <edge id="306" source="Female Friendly" target="Shaved" weight="0.000800545556972" />
+      <edge id="307" source="Female Friendly" target="Interview" weight="0.000375375375375" />
+      <edge id="308" source="Female Friendly" target="Latina" weight="0.000225631768953" />
+      <edge id="309" source="Female Friendly" target="Homemade" weight="0.00162469536962" />
+      <edge id="310" source="Female Friendly" target="Threesome" weight="0.000155255395125" />
+      <edge id="311" source="Female Friendly" target="Redhead" weight="0.00155569383945" />
+      <edge id="312" source="Female Friendly" target="Fetish" weight="0.000130804447351" />
+      <edge id="313" source="Female Friendly" target="Panties" weight="0.00100704934542" />
+      <edge id="314" source="Female Friendly" target="HD" weight="0.00552183442927" />
+      <edge id="315" source="Female Friendly" target="European" weight="0.000304383116883" />
+      <edge id="316" source="Female Friendly" target="Teen" weight="0.000755965036617" />
+      <edge id="317" source="Female Friendly" target="Solo Male" weight="0.000698120891268" />
+      <edge id="318" source="Female Friendly" target="Cunnilingus" weight="0.00484690861804" />
+      <edge id="319" source="Female Friendly" target="Amateur" weight="0.000240184461667" />
+      <edge id="320" source="Female Friendly" target="Big tits" weight="0.00041098142364" />
+      <edge id="321" source="Female Friendly" target="Blowjob" weight="0.000460581868427" />
+      <edge id="322" source="Female Friendly" target="Creampie" weight="0.00246858168761" />
+      <edge id="323" source="Female Friendly" target="Facial" weight="0.000104025798398" />
+      <edge id="324" source="Female Friendly" target="College" weight="0.000891662951404" />
+      <edge id="325" source="Female Friendly" target="Lesbian" weight="0.0172613084688" />
+      <edge id="326" source="Female Friendly" target="Solo girl" weight="0.000198787396879" />
+      <edge id="327" source="Female Friendly" target="Romantic" weight="0.03905645785" />
+      <edge id="328" source="Female Friendly" target="Cumshots" weight="0.000331608966706" />
+      <edge id="329" source="Female Friendly" target="Orgy" weight="0.000105318588731" />
+      <edge id="330" source="Female Friendly" target="Mature" weight="0.000240876791521" />
+      <edge id="331" source="Female Friendly" target="BBW" weight="0.000345841258862" />
+      <edge id="332" source="Female Friendly" target="Kissing" weight="0.012676056338" />
+      <edge id="333" source="Female Friendly" target="Anal" weight="0.000790730208935" />
+      <edge id="334" source="Female Friendly" target="Young/Old" weight="0.000258799171843" />
+      <edge id="335" source="Female Friendly" target="Masturbation" weight="8.49076629166e-05" />
+      <edge id="336" source="Female Friendly" target="MILF" weight="0.000731758310684" />
+      <edge id="337" source="Female Friendly" target="Brunette" weight="0.00103752377659" />
+      <edge id="338" source="Female Friendly" target="Squirting" weight="0.000593119810202" />
+      <edge id="339" source="Female Friendly" target="Straight Sex" weight="0.000800205767197" />
+      <edge id="340" source="Female Friendly" target="German" weight="0.000128625635089" />
+      <edge id="341" source="Female Friendly" target="Bisexual" weight="0.00120530333467" />
+      <edge id="342" source="Female Friendly" target="Dildos/Toys" weight="0.000436840189297" />
+      <edge id="343" source="Female Friendly" target="Handjob" weight="0.000249875062469" />
+      <edge id="344" source="Female Friendly" target="Couples" weight="0.00247524752475" />
+      <edge id="345" source="Female Friendly" target="Fantasy" weight="0.000545851528384" />
+      <edge id="346" source="Female Friendly" target="Fingering" weight="0.00197037145151" />
+      <edge id="347" source="Female Friendly" target="Asian" weight="0.000471438673686" />
+      <edge id="348" source="Female Friendly" target="Blonde" weight="0.0012897995283" />
+      <edge id="349" source="Female Friendly" target="Big butt" weight="0.00036496350365" />
+      <edge id="350" source="Shaved" target="Interview" weight="0.0305580808821" />
+      <edge id="351" source="Shaved" target="Latina" weight="0.0164968328284" />
+      <edge id="352" source="Shaved" target="Homemade" weight="0.00312462802047" />
+      <edge id="353" source="Shaved" target="Kissing" weight="0.0431552682318" />
+      <edge id="354" source="Shaved" target="Redhead" weight="0.0296238606207" />
+      <edge id="355" source="Shaved" target="Fetish" weight="0.0251941946034" />
+      <edge id="356" source="Shaved" target="Shemale" weight="0.0008" />
+      <edge id="357" source="Shaved" target="Panties" weight="0.0127832143172" />
+      <edge id="358" source="Shaved" target="Public" weight="0.0394582343464" />
+      <edge id="359" source="Shaved" target="DP" weight="0.0180432589936" />
+      <edge id="360" source="Shaved" target="European" weight="0.09438010547" />
+      <edge id="361" source="Shaved" target="Solo girl" weight="0.194441290674" />
+      <edge id="362" source="Shaved" target="Solo Male" weight="0.000658347547655" />
+      <edge id="363" source="Shaved" target="Cunnilingus" weight="0.108568027487" />
+      <edge id="364" source="Shaved" target="Amateur" weight="0.154308154308" />
+      <edge id="365" source="Shaved" target="Gay" weight="0.000679921705985" />
+      <edge id="366" source="Shaved" target="POV" weight="0.0470955861838" />
+      <edge id="367" source="Shaved" target="Compilation" weight="0.00424009922409" />
+      <edge id="368" source="Shaved" target="Big tits" weight="0.155659513882" />
+      <edge id="369" source="Shaved" target="Blowjob" weight="0.239565654117" />
+      <edge id="370" source="Shaved" target="Creampie" weight="0.0342385218365" />
+      <edge id="371" source="Shaved" target="HD" weight="0.0237904838065" />
+      <edge id="372" source="Shaved" target="Facial" weight="0.0875125959228" />
+      <edge id="373" source="Shaved" target="College" weight="0.0106828899109" />
+      <edge id="374" source="Shaved" target="3D" weight="0.000119958014695" />
+      <edge id="375" source="Shaved" target="Lesbian" weight="0.0338607093547" />
+      <edge id="376" source="Shaved" target="Teen" weight="0.181742098888" />
+      <edge id="377" source="Shaved" target="Instructional" weight="0.00292942743009" />
+      <edge id="378" source="Shaved" target="Romantic" weight="0.0154206012302" />
+      <edge id="379" source="Shaved" target="Swallow" weight="0.0196164503827" />
+      <edge id="380" source="Shaved" target="Voyeur" weight="0.0152650015664" />
+      <edge id="381" source="Shaved" target="MILF" weight="0.0487604130294" />
+      <edge id="382" source="Shaved" target="Interracial" weight="0.035124819476" />
+      <edge id="383" source="Shaved" target="Orgy" weight="0.0402240452056" />
+      <edge id="384" source="Shaved" target="Mature" weight="0.0189391100117" />
+      <edge id="385" source="Shaved" target="BBW" weight="0.0111792378033" />
+      <edge id="386" source="Shaved" target="Threesome" weight="0.0666165024573" />
+      <edge id="387" source="Shaved" target="Anal" weight="0.104200091196" />
+      <edge id="388" source="Shaved" target="Young/Old" weight="0.0343443698387" />
+      <edge id="389" source="Shaved" target="Massage" weight="0.00115600082995" />
+      <edge id="390" source="Shaved" target="Masturbation" weight="0.17444980088" />
+      <edge id="391" source="Shaved" target="Cumshots" weight="0.0873362445415" />
+      <edge id="392" source="Shaved" target="Brunette" weight="0.341222486081" />
+      <edge id="393" source="Shaved" target="Squirting" weight="0.0227953553394" />
+      <edge id="394" source="Shaved" target="Straight Sex" weight="0.384314047214" />
+      <edge id="395" source="Shaved" target="German" weight="0.0942334419357" />
+      <edge id="396" source="Shaved" target="Bisexual" weight="0.00243671702549" />
+      <edge id="397" source="Shaved" target="Dildos/Toys" weight="0.133380744519" />
+      <edge id="398" source="Shaved" target="Handjob" weight="0.00662269930186" />
+      <edge id="399" source="Shaved" target="Couples" weight="0.139350443352" />
+      <edge id="400" source="Shaved" target="Fantasy" weight="0.0422470225221" />
+      <edge id="401" source="Shaved" target="Fingering" weight="0.203437947649" />
+      <edge id="402" source="Shaved" target="Asian" weight="0.0199435984208" />
+      <edge id="403" source="Shaved" target="Pantyhose" weight="0.0129480038494" />
+      <edge id="404" source="Shaved" target="Blonde" weight="0.281105693851" />
+      <edge id="405" source="Shaved" target="Hentai" weight="0.000671630895021" />
+      <edge id="406" source="Shaved" target="Rimming" weight="0.00745411154651" />
+      <edge id="407" source="Shaved" target="Ebony" weight="0.0146092602613" />
+      <edge id="408" source="Shaved" target="Big butt" weight="0.0335204042764" />
+      <edge id="409" source="Interview" target="Latina" weight="0.0109431995831" />
+      <edge id="410" source="Interview" target="Homemade" weight="0.00421617477961" />
+      <edge id="411" source="Interview" target="Threesome" weight="0.00741211351122" />
+      <edge id="412" source="Interview" target="Redhead" weight="0.0125302264234" />
+      <edge id="413" source="Interview" target="Fetish" weight="0.00210783226093" />
+      <edge id="414" source="Interview" target="Shemale" weight="0.00104112441437" />
+      <edge id="415" source="Interview" target="Panties" weight="0.00776351149597" />
+      <edge id="416" source="Interview" target="Public" weight="0.0167589624016" />
+      <edge id="417" source="Interview" target="HD" weight="0.00980117614114" />
+      <edge id="418" source="Interview" target="European" weight="0.0283467446964" />
+      <edge id="419" source="Interview" target="Teen" weight="0.0380864765409" />
+      <edge id="420" source="Interview" target="Solo Male" weight="0.000251537171604" />
+      <edge id="421" source="Interview" target="Cunnilingus" weight="0.0160312403658" />
+      <edge id="422" source="Interview" target="Amateur" weight="0.0240890428535" />
+      <edge id="423" source="Interview" target="Gay" weight="0.00103086879331" />
+      <edge id="424" source="Interview" target="POV" weight="0.0699335548173" />
+      <edge id="425" source="Interview" target="Compilation" weight="0.0056664867782" />
+      <edge id="426" source="Interview" target="Big tits" weight="0.0136311704684" />
+      <edge id="427" source="Interview" target="Blowjob" weight="0.0260270153831" />
+      <edge id="428" source="Interview" target="Creampie" weight="0.0309968298697" />
+      <edge id="429" source="Interview" target="DP" weight="0.00325047801147" />
+      <edge id="430" source="Interview" target="Facial" weight="0.0490130637933" />
+      <edge id="431" source="Interview" target="Fingering" weight="0.0116442481429" />
+      <edge id="432" source="Interview" target="Lesbian" weight="0.00516778061049" />
+      <edge id="433" source="Interview" target="Solo girl" weight="0.00914719954968" />
+      <edge id="434" source="Interview" target="Instructional" weight="0.00718132854578" />
+      <edge id="435" source="Interview" target="Romantic" weight="0.0104166666667" />
+      <edge id="436" source="Interview" target="Swallow" weight="0.036866359447" />
+      <edge id="437" source="Interview" target="Voyeur" weight="0.0108623365108" />
+      <edge id="438" source="Interview" target="MILF" weight="0.0100451571284" />
+      <edge id="439" source="Interview" target="Interracial" weight="0.00544444444444" />
+      <edge id="440" source="Interview" target="Orgy" weight="0.00313392939441" />
+      <edge id="441" source="Interview" target="Mature" weight="0.00560282216227" />
+      <edge id="442" source="Interview" target="BBW" weight="0.00448179271709" />
+      <edge id="443" source="Interview" target="Kissing" weight="0.0115330021292" />
+      <edge id="444" source="Interview" target="Anal" weight="0.0120702375682" />
+      <edge id="445" source="Interview" target="Young/Old" weight="0.0168414008476" />
+      <edge id="446" source="Interview" target="Masturbation" weight="0.00734997173088" />
+      <edge id="447" source="Interview" target="Cumshots" weight="0.021902339145" />
+      <edge id="448" source="Interview" target="Brunette" weight="0.0264272115029" />
+      <edge id="449" source="Interview" target="Squirting" weight="0.00634115409004" />
+      <edge id="450" source="Interview" target="Straight Sex" weight="0.0303682110209" />
+      <edge id="451" source="Interview" target="German" weight="0.00743472313091" />
+      <edge id="452" source="Interview" target="Bisexual" weight="0.00779423226812" />
+      <edge id="453" source="Interview" target="Dildos/Toys" weight="0.011703337123" />
+      <edge id="454" source="Interview" target="Handjob" weight="0.00728835731639" />
+      <edge id="455" source="Interview" target="Couples" weight="0.00728136129798" />
+      <edge id="456" source="Interview" target="Fantasy" weight="0.0130312750601" />
+      <edge id="457" source="Interview" target="College" weight="0.0182225960191" />
+      <edge id="458" source="Interview" target="Asian" weight="0.00541156365708" />
+      <edge id="459" source="Interview" target="Pantyhose" weight="0.00357830993669" />
+      <edge id="460" source="Interview" target="Blonde" weight="0.0215703809694" />
+      <edge id="461" source="Interview" target="Hentai" weight="0.00283911671924" />
+      <edge id="462" source="Interview" target="Rimming" weight="0.0133812010444" />
+      <edge id="463" source="Interview" target="Ebony" weight="0.00558049253912" />
+      <edge id="464" source="Interview" target="Big butt" weight="0.0138200232092" />
+      <edge id="465" source="Big butt" target="Latina" weight="0.0398464631694" />
+      <edge id="466" source="Big butt" target="Homemade" weight="0.00159216166565" />
+      <edge id="467" source="Big butt" target="Threesome" weight="0.0305061843883" />
+      <edge id="468" source="Big butt" target="Redhead" weight="0.0107398568019" />
+      <edge id="469" source="Big butt" target="Fetish" weight="0.00975778546713" />
+      <edge id="470" source="Big butt" target="Shemale" weight="0.00477743231971" />
+      <edge id="471" source="Big butt" target="Panties" weight="0.0184699578155" />
+      <edge id="472" source="Big butt" target="Public" weight="0.0103167566696" />
+      <edge id="473" source="Big butt" target="DP" weight="0.0110414522317" />
+      <edge id="474" source="Big butt" target="European" weight="0.0141831130424" />
+      <edge id="475" source="Big butt" target="Solo girl" weight="0.0168657501315" />
+      <edge id="476" source="Big butt" target="Solo Male" weight="0.000556577291647" />
+      <edge id="477" source="Big butt" target="Cunnilingus" weight="0.0234576900139" />
+      <edge id="478" source="Big butt" target="Amateur" weight="0.0408625369262" />
+      <edge id="479" source="Big butt" target="Gay" weight="0.00169579963475" />
+      <edge id="480" source="Big butt" target="POV" weight="0.0393243828497" />
+      <edge id="481" source="Big butt" target="Compilation" weight="0.0149759510275" />
+      <edge id="482" source="Big butt" target="Big tits" weight="0.128476104599" />
+      <edge id="483" source="Big butt" target="Blowjob" weight="0.0266220735786" />
+      <edge id="484" source="Big butt" target="Creampie" weight="0.0307080924855" />
+      <edge id="485" source="Big butt" target="HD" weight="0.0414905488114" />
+      <edge id="486" source="Big butt" target="Facial" weight="0.0260239172192" />
+      <edge id="487" source="Big butt" target="College" weight="0.0466970387244" />
+      <edge id="488" source="Big butt" target="Lesbian" weight="0.0158842216731" />
+      <edge id="489" source="Big butt" target="Instructional" weight="0.00275779376499" />
+      <edge id="490" source="Big butt" target="Romantic" weight="0.0276325616131" />
+      <edge id="491" source="Big butt" target="Swallow" weight="0.0160712726002" />
+      <edge id="492" source="Big butt" target="Voyeur" weight="0.00766855890848" />
+      <edge id="493" source="Big butt" target="MILF" weight="0.0439234026417" />
+      <edge id="494" source="Big butt" target="Interracial" weight="0.0465716128108" />
+      <edge id="495" source="Big butt" target="Orgy" weight="0.0117538461538" />
+      <edge id="496" source="Big butt" target="Mature" weight="0.0353021045485" />
+      <edge id="497" source="Big butt" target="BBW" weight="0.175764292971" />
+      <edge id="498" source="Big butt" target="Kissing" weight="0.0155136646523" />
+      <edge id="499" source="Big butt" target="Anal" weight="0.0575871769014" />
+      <edge id="500" source="Big butt" target="Young/Old" weight="0.0416666666667" />
+      <edge id="501" source="Big butt" target="Massage" weight="0.00304136253041" />
+      <edge id="502" source="Big butt" target="Masturbation" weight="0.012279304394" />
+      <edge id="503" source="Big butt" target="Cumshots" weight="0.0269942654669" />
+      <edge id="504" source="Big butt" target="Brunette" weight="0.0357346984419" />
+      <edge id="505" source="Big butt" target="Squirting" weight="0.0252359662196" />
+      <edge id="506" source="Big butt" target="Straight Sex" weight="0.0606880165811" />
+      <edge id="507" source="Big butt" target="German" weight="0.0128770823953" />
+      <edge id="508" source="Big butt" target="Bisexual" weight="0.0275479094077" />
+      <edge id="509" source="Big butt" target="Dildos/Toys" weight="0.0151641556657" />
+      <edge id="510" source="Big butt" target="Handjob" weight="0.00726837795565" />
+      <edge id="511" source="Big butt" target="Couples" weight="0.0304311073542" />
+      <edge id="512" source="Big butt" target="Fantasy" weight="0.0218605546995" />
+      <edge id="513" source="Big butt" target="Teen" weight="0.0433653596468" />
+      <edge id="514" source="Big butt" target="Fingering" weight="0.0162202015237" />
+      <edge id="515" source="Big butt" target="Asian" weight="0.0313417190776" />
+      <edge id="516" source="Big butt" target="Pantyhose" weight="0.00744308231173" />
+      <edge id="517" source="Big butt" target="Blonde" weight="0.0403439758485" />
+      <edge id="518" source="Big butt" target="Hentai" weight="0.0024093620927" />
+      <edge id="519" source="Big butt" target="Rimming" weight="0.0059219693451" />
+      <edge id="520" source="Big butt" target="Ebony" weight="0.118497576737" />
+      <edge id="521" source="Homemade" target="Kissing" weight="0.0030545112782" />
+      <edge id="522" source="Homemade" target="Redhead" weight="0.00443037974684" />
+      <edge id="523" source="Homemade" target="Fetish" weight="0.00171323141803" />
+      <edge id="524" source="Homemade" target="Shemale" weight="0.0016" />
+      <edge id="525" source="Homemade" target="Panties" weight="0.00206291903043" />
+      <edge id="526" source="Homemade" target="Swallow" weight="0.00497835497835" />
+      <edge id="527" source="Homemade" target="DP" weight="0.00394736842105" />
+      <edge id="528" source="Homemade" target="European" weight="0.00347648261759" />
+      <edge id="529" source="Homemade" target="Solo girl" weight="0.00239604652324" />
+      <edge id="530" source="Homemade" target="Solo Male" weight="0.00049504950495" />
+      <edge id="531" source="Homemade" target="Cunnilingus" weight="0.00272770398482" />
+      <edge id="532" source="Homemade" target="Amateur" weight="0.00323042059755" />
+      <edge id="533" source="Homemade" target="Gay" weight="0.000561167227834" />
+      <edge id="534" source="Homemade" target="POV" weight="0.00481444332999" />
+      <edge id="535" source="Homemade" target="Compilation" weight="0.00130890052356" />
+      <edge id="536" source="Homemade" target="Big tits" weight="0.00210343974264" />
+      <edge id="537" source="Homemade" target="Public" weight="0.00234996384671" />
+      <edge id="538" source="Homemade" target="Blowjob" weight="0.00230982445334" />
+      <edge id="539" source="Homemade" target="Creampie" weight="0.00477164280845" />
+      <edge id="540" source="Homemade" target="HD" weight="0.000756556825824" />
+      <edge id="541" source="Homemade" target="Facial" weight="0.00314498375092" />
+      <edge id="542" source="Homemade" target="College" weight="0.00136549840692" />
+      <edge id="543" source="Homemade" target="Lesbian" weight="0.00167504187605" />
+      <edge id="544" source="Homemade" target="Teen" weight="0.00260898439353" />
+      <edge id="545" source="Homemade" target="Instructional" weight="0.0021897810219" />
+      <edge id="546" source="Homemade" target="Romantic" weight="0.00189609404626" />
+      <edge id="547" source="Homemade" target="Voyeur" weight="0.0025641025641" />
+      <edge id="548" source="Homemade" target="Cumshots" weight="0.00293450713619" />
+      <edge id="549" source="Homemade" target="Interracial" weight="0.00316080600553" />
+      <edge id="550" source="Homemade" target="Orgy" weight="0.00361049166401" />
+      <edge id="551" source="Homemade" target="Mature" weight="0.00206235593837" />
+      <edge id="552" source="Homemade" target="BBW" weight="0.000871839581517" />
+      <edge id="553" source="Homemade" target="Threesome" weight="0.0026552128075" />
+      <edge id="554" source="Homemade" target="Anal" weight="0.00219579139982" />
+      <edge id="555" source="Homemade" target="Young/Old" weight="0.0016944734098" />
+      <edge id="556" source="Homemade" target="Massage" weight="0.000797448165869" />
+      <edge id="557" source="Homemade" target="Masturbation" weight="0.00208839449346" />
+      <edge id="558" source="Homemade" target="MILF" weight="0.00199810705647" />
+      <edge id="559" source="Homemade" target="Brunette" weight="0.00280411655874" />
+      <edge id="560" source="Homemade" target="Squirting" weight="0.00271084337349" />
+      <edge id="561" source="Homemade" target="Straight Sex" weight="0.00306880431353" />
+      <edge id="562" source="Homemade" target="German" weight="0.00271598551474" />
+      <edge id="563" source="Homemade" target="Bisexual" weight="0.0020475020475" />
+      <edge id="564" source="Homemade" target="Dildos/Toys" weight="0.00241528214887" />
+      <edge id="565" source="Homemade" target="Handjob" weight="0.00278692677983" />
+      <edge id="566" source="Homemade" target="Couples" weight="0.00525097899608" />
+      <edge id="567" source="Homemade" target="Fantasy" weight="0.00276931597895" />
+      <edge id="568" source="Homemade" target="Fingering" weight="0.00278449476075" />
+      <edge id="569" source="Homemade" target="Asian" weight="0.00300395256917" />
+      <edge id="570" source="Homemade" target="Pantyhose" weight="0.00135685210312" />
+      <edge id="571" source="Homemade" target="Blonde" weight="0.00173566232136" />
+      <edge id="572" source="Homemade" target="Hentai" weight="0.00057273768614" />
+      <edge id="573" source="Homemade" target="Rimming" weight="0.00119688809096" />
+      <edge id="574" source="Homemade" target="Ebony" weight="0.00146049364685" />
+      <edge id="575" source="Homemade" target="Latina" weight="0.00182648401826" />
+      <edge id="576" source="Threesome" target="Latina" weight="0.00931344786357" />
+      <edge id="577" source="Threesome" target="Redhead" weight="0.0162462297779" />
+      <edge id="578" source="Threesome" target="Fetish" weight="0.0132098310615" />
+      <edge id="579" source="Threesome" target="Shemale" weight="0.00924099847862" />
+      <edge id="580" source="Threesome" target="Panties" weight="0.00391403884499" />
+      <edge id="581" source="Threesome" target="Public" weight="0.0192638254994" />
+      <edge id="582" source="Threesome" target="DP" weight="0.153920764008" />
+      <edge id="583" source="Threesome" target="European" weight="0.0777766619803" />
+      <edge id="584" source="Threesome" target="Teen" weight="0.0483118045786" />
+      <edge id="585" source="Threesome" target="Solo Male" weight="0.000282639417328" />
+      <edge id="586" source="Threesome" target="Cunnilingus" weight="0.0522845030617" />
+      <edge id="587" source="Threesome" target="Amateur" weight="0.0324914276156" />
+      <edge id="588" source="Threesome" target="Gay" weight="0.0145044319098" />
+      <edge id="589" source="Threesome" target="POV" weight="0.00969696969697" />
+      <edge id="590" source="Threesome" target="Compilation" weight="0.00693140794224" />
+      <edge id="591" source="Threesome" target="Big tits" weight="0.0468868309162" />
+      <edge id="592" source="Threesome" target="Blowjob" weight="0.0730535627368" />
+      <edge id="593" source="Threesome" target="Creampie" weight="0.0152864632683" />
+      <edge id="594" source="Threesome" target="HD" weight="0.0292871241147" />
+      <edge id="595" source="Threesome" target="Facial" weight="0.0361834073929" />
+      <edge id="596" source="Threesome" target="College" weight="0.0210836712127" />
+      <edge id="597" source="Threesome" target="3D" weight="8.01410482449e-05" />
+      <edge id="598" source="Threesome" target="Lesbian" weight="0.0296351637405" />
+      <edge id="599" source="Threesome" target="Instructional" weight="0.00169204737733" />
+      <edge id="600" source="Threesome" target="Romantic" weight="0.0124672380817" />
+      <edge id="601" source="Threesome" target="Swallow" weight="0.0128675327905" />
+      <edge id="602" source="Threesome" target="Voyeur" weight="0.00660672932843" />
+      <edge id="603" source="Threesome" target="Solo girl" weight="0.00113579000505" />
+      <edge id="604" source="Threesome" target="Cumshots" weight="0.0361441105676" />
+      <edge id="605" source="Threesome" target="Interracial" weight="0.0365269783205" />
+      <edge id="606" source="Threesome" target="Orgy" weight="0.14101870877" />
+      <edge id="607" source="Threesome" target="Mature" weight="0.0220727888712" />
+      <edge id="608" source="Threesome" target="BBW" weight="0.0161855790581" />
+      <edge id="609" source="Threesome" target="Kissing" weight="0.0298208163529" />
+      <edge id="610" source="Threesome" target="Anal" weight="0.116229499975" />
+      <edge id="611" source="Threesome" target="Young/Old" weight="0.0316384783653" />
+      <edge id="612" source="Threesome" target="Massage" weight="0.00194084310224" />
+      <edge id="613" source="Threesome" target="Masturbation" weight="0.00268043000941" />
+      <edge id="614" source="Threesome" target="MILF" weight="0.0304578407045" />
+      <edge id="615" source="Threesome" target="Brunette" weight="0.0911488379759" />
+      <edge id="616" source="Threesome" target="Squirting" weight="0.0108644307983" />
+      <edge id="617" source="Threesome" target="Straight Sex" weight="0.0755230559849" />
+      <edge id="618" source="Threesome" target="German" weight="0.0833333333333" />
+      <edge id="619" source="Threesome" target="Bisexual" weight="0.0353995299647" />
+      <edge id="620" source="Threesome" target="Dildos/Toys" weight="0.0137583489981" />
+      <edge id="621" source="Threesome" target="Handjob" weight="0.00411707944677" />
+      <edge id="622" source="Threesome" target="Couples" weight="0.015174976773" />
+      <edge id="623" source="Threesome" target="Fantasy" weight="0.0183370007335" />
+      <edge id="624" source="Threesome" target="Fingering" weight="0.0222724338283" />
+      <edge id="625" source="Threesome" target="Asian" weight="0.0191784263641" />
+      <edge id="626" source="Threesome" target="Pantyhose" weight="0.00463734511992" />
+      <edge id="627" source="Threesome" target="Blonde" weight="0.0916640860336" />
+      <edge id="628" source="Threesome" target="Hentai" weight="0.00134529147982" />
+      <edge id="629" source="Threesome" target="Rimming" weight="0.0122312542733" />
+      <edge id="630" source="Threesome" target="Ebony" weight="0.0203991619804" />
+      <edge id="631" source="Redhead" target="Kissing" weight="0.0137763371151" />
+      <edge id="632" source="Redhead" target="Fetish" weight="0.00915789473684" />
+      <edge id="633" source="Redhead" target="Shemale" weight="0.00230946882217" />
+      <edge id="634" source="Redhead" target="Panties" weight="0.0128899200825" />
+      <edge id="635" source="Redhead" target="Anal" weight="0.0154142020455" />
+      <edge id="636" source="Redhead" target="DP" weight="0.018433988764" />
+      <edge id="637" source="Redhead" target="European" weight="0.0226189444493" />
+      <edge id="638" source="Redhead" target="Solo girl" weight="0.0201562572234" />
+      <edge id="639" source="Redhead" target="Solo Male" weight="0.000302763404162" />
+      <edge id="640" source="Redhead" target="Cunnilingus" weight="0.0242299391799" />
+      <edge id="641" source="Redhead" target="Amateur" weight="0.0127521738447" />
+      <edge id="642" source="Redhead" target="Gay" weight="0.000832500832501" />
+      <edge id="643" source="Redhead" target="POV" weight="0.0204230488694" />
+      <edge id="644" source="Redhead" target="Compilation" weight="0.00398686679174" />
+      <edge id="645" source="Redhead" target="Big tits" weight="0.0171046012151" />
+      <edge id="646" source="Redhead" target="Public" weight="0.0123672536631" />
+      <edge id="647" source="Redhead" target="Blowjob" weight="0.0193993889565" />
+      <edge id="648" source="Redhead" target="Creampie" weight="0.0147268408551" />
+      <edge id="649" source="Redhead" target="HD" weight="0.00812881037987" />
+      <edge id="650" source="Redhead" target="Facial" weight="0.0230190349712" />
+      <edge id="651" source="Redhead" target="College" weight="0.0133139675623" />
+      <edge id="652" source="Redhead" target="Lesbian" weight="0.00771995208306" />
+      <edge id="653" source="Redhead" target="Asian" weight="0.00293896521085" />
+      <edge id="654" source="Redhead" target="Teen" weight="0.024684245513" />
+      <edge id="655" source="Redhead" target="Instructional" weight="0.00478612025127" />
+      <edge id="656" source="Redhead" target="Romantic" weight="0.0126914660832" />
+      <edge id="657" source="Redhead" target="Voyeur" weight="0.00768472906404" />
+      <edge id="658" source="Redhead" target="Cumshots" weight="0.0208070995982" />
+      <edge id="659" source="Redhead" target="Interracial" weight="0.0129746835443" />
+      <edge id="660" source="Redhead" target="Orgy" weight="0.0137386988123" />
+      <edge id="661" source="Redhead" target="Mature" weight="0.0175787069222" />
+      <edge id="662" source="Redhead" target="BBW" weight="0.0109918869406" />
+      <edge id="663" source="Redhead" target="Swallow" weight="0.0207884200801" />
+      <edge id="664" source="Redhead" target="Young/Old" weight="0.0181071691757" />
+      <edge id="665" source="Redhead" target="Massage" weight="0.000308641975309" />
+      <edge id="666" source="Redhead" target="Masturbation" weight="0.0163019650046" />
+      <edge id="667" source="Redhead" target="MILF" weight="0.0206541973229" />
+      <edge id="668" source="Redhead" target="Brunette" weight="0.0132615002072" />
+      <edge id="669" source="Redhead" target="Squirting" weight="0.00873030935661" />
+      <edge id="670" source="Redhead" target="Straight Sex" weight="0.0261820806841" />
+      <edge id="671" source="Redhead" target="German" weight="0.0185756711116" />
+      <edge id="672" source="Redhead" target="Bisexual" weight="0.00453206435531" />
+      <edge id="673" source="Redhead" target="Dildos/Toys" weight="0.0192382685558" />
+      <edge id="674" source="Redhead" target="Handjob" weight="0.00951086956522" />
+      <edge id="675" source="Redhead" target="Couples" weight="0.0189504373178" />
+      <edge id="676" source="Redhead" target="Fantasy" weight="0.0207536865101" />
+      <edge id="677" source="Redhead" target="Fingering" weight="0.0237130911941" />
+      <edge id="678" source="Redhead" target="Ebony" weight="0.00306261343013" />
+      <edge id="679" source="Redhead" target="Blonde" weight="0.00925637025481" />
+      <edge id="680" source="Redhead" target="Hentai" weight="0.00214765100671" />
+      <edge id="681" source="Redhead" target="Rimming" weight="0.0113322277501" />
+      <edge id="682" source="Redhead" target="Pantyhose" weight="0.0132689987937" />
+      <edge id="683" source="Redhead" target="Latina" weight="0.00377952755906" />
+      <edge id="684" source="Fetish" target="Kissing" weight="0.00631182289213" />
+      <edge id="685" source="Fetish" target="Shemale" weight="0.00316631045674" />
+      <edge id="686" source="Fetish" target="Panties" weight="0.0272928448488" />
+      <edge id="687" source="Fetish" target="Swallow" weight="0.00545652964714" />
+      <edge id="688" source="Fetish" target="DP" weight="0.00560416871497" />
+      <edge id="689" source="Fetish" target="European" weight="0.00976975731176" />
+      <edge id="690" source="Fetish" target="Solo girl" weight="0.0389803921569" />
+      <edge id="691" source="Fetish" target="Solo Male" weight="0.00302605358329" />
+      <edge id="692" source="Fetish" target="Cunnilingus" weight="0.0193336075689" />
+      <edge id="693" source="Fetish" target="Amateur" weight="0.00882271041871" />
+      <edge id="694" source="Fetish" target="Gay" weight="0.00388861574219" />
+      <edge id="695" source="Fetish" target="POV" weight="0.00545774647887" />
+      <edge id="696" source="Fetish" target="Compilation" weight="0.00391976020291" />
+      <edge id="697" source="Fetish" target="Big tits" weight="0.0110620925792" />
+      <edge id="698" source="Fetish" target="Public" weight="0.0237137231401" />
+      <edge id="699" source="Fetish" target="Blowjob" weight="0.0130116079585" />
+      <edge id="700" source="Fetish" target="Creampie" weight="0.00398443291327" />
+      <edge id="701" source="Fetish" target="HD" weight="0.0191192338818" />
+      <edge id="702" source="Fetish" target="Facial" weight="0.00661334005165" />
+      <edge id="703" source="Fetish" target="College" weight="0.00384615384615" />
+      <edge id="704" source="Fetish" target="Lesbian" weight="0.0300015790305" />
+      <edge id="705" source="Fetish" target="Asian" weight="0.00770245317858" />
+      <edge id="706" source="Fetish" target="Instructional" weight="0.00335051546392" />
+      <edge id="707" source="Fetish" target="Romantic" weight="0.00321294039442" />
+      <edge id="708" source="Fetish" target="Voyeur" weight="0.00813609467456" />
+      <edge id="709" source="Fetish" target="Cumshots" weight="0.0109812423414" />
+      <edge id="710" source="Fetish" target="Interracial" weight="0.00407929578473" />
+      <edge id="711" source="Fetish" target="Orgy" weight="0.00653511833006" />
+      <edge id="712" source="Fetish" target="Mature" weight="0.00555098684211" />
+      <edge id="713" source="Fetish" target="BBW" weight="0.00504465762488" />
+      <edge id="714" source="Fetish" target="Anal" weight="0.0260730987277" />
+      <edge id="715" source="Fetish" target="Young/Old" weight="0.00714387769681" />
+      <edge id="716" source="Fetish" target="Massage" weight="0.000130429111778" />
+      <edge id="717" source="Fetish" target="Masturbation" weight="0.0131017672151" />
+      <edge id="718" source="Fetish" target="MILF" weight="0.00694839239467" />
+      <edge id="719" source="Fetish" target="Brunette" weight="0.0234816603999" />
+      <edge id="720" source="Fetish" target="Squirting" weight="0.0196776219385" />
+      <edge id="721" source="Fetish" target="Straight Sex" weight="0.0124021526419" />
+      <edge id="722" source="Fetish" target="German" weight="0.0205326380482" />
+      <edge id="723" source="Fetish" target="Bisexual" weight="0.00888180368936" />
+      <edge id="724" source="Fetish" target="Dildos/Toys" weight="0.0446233766234" />
+      <edge id="725" source="Fetish" target="Handjob" weight="0.0180622361834" />
+      <edge id="726" source="Fetish" target="Couples" weight="0.00751024123805" />
+      <edge id="727" source="Fetish" target="Fantasy" weight="0.0373203763052" />
+      <edge id="728" source="Fetish" target="Teen" weight="0.0107870115575" />
+      <edge id="729" source="Fetish" target="Fingering" weight="0.0335818976601" />
+      <edge id="730" source="Fetish" target="Pantyhose" weight="0.0524582164206" />
+      <edge id="731" source="Fetish" target="Blonde" weight="0.0205391918208" />
+      <edge id="732" source="Fetish" target="Hentai" weight="0.00270336692062" />
+      <edge id="733" source="Fetish" target="Rimming" weight="0.0219919110212" />
+      <edge id="734" source="Fetish" target="Ebony" weight="0.00545537202606" />
+      <edge id="735" source="Fetish" target="Latina" weight="0.00259909031839" />
+      <edge id="736" source="Shemale" target="Kissing" weight="0.00160840660519" />
+      <edge id="737" source="Shemale" target="Panties" weight="0.00199971432652" />
+      <edge id="738" source="Shemale" target="Swallow" weight="0.00237309120924" />
+      <edge id="739" source="Shemale" target="HD" weight="0.0113807472774" />
+      <edge id="740" source="Shemale" target="European" weight="0.000941366325982" />
+      <edge id="741" source="Shemale" target="Solo girl" weight="0.00091524074811" />
+      <edge id="742" source="Shemale" target="Solo Male" weight="0.00221137715419" />
+      <edge id="743" source="Shemale" target="Cunnilingus" weight="0.0010360393695" />
+      <edge id="744" source="Shemale" target="Amateur" weight="0.00213808463252" />
+      <edge id="745" source="Shemale" target="Gay" weight="0.00327790973872" />
+      <edge id="746" source="Shemale" target="POV" weight="0.000992950054612" />
+      <edge id="747" source="Shemale" target="Compilation" weight="0.00340506673931" />
+      <edge id="748" source="Shemale" target="Big tits" weight="0.00317666347862" />
+      <edge id="749" source="Shemale" target="Public" weight="0.0011315417256" />
+      <edge id="750" source="Shemale" target="Blowjob" weight="0.00149795733091" />
+      <edge id="751" source="Shemale" target="Creampie" weight="0.00200527704485" />
+      <edge id="752" source="Shemale" target="DP" weight="0.00157782035388" />
+      <edge id="753" source="Shemale" target="Facial" weight="0.00143638850889" />
+      <edge id="754" source="Shemale" target="College" weight="0.00179088028654" />
+      <edge id="755" source="Shemale" target="3D" weight="0.00101798439091" />
+      <edge id="756" source="Shemale" target="Lesbian" weight="0.00170357751278" />
+      <edge id="757" source="Shemale" target="Teen" weight="0.00279318920987" />
+      <edge id="758" source="Shemale" target="Instructional" weight="0.000931821711446" />
+      <edge id="759" source="Shemale" target="Romantic" weight="0.00299050838643" />
+      <edge id="760" source="Shemale" target="Voyeur" weight="0.00134326535597" />
+      <edge id="761" source="Shemale" target="Cumshots" weight="0.0024925224327" />
+      <edge id="762" source="Shemale" target="Interracial" weight="0.00142056664825" />
+      <edge id="763" source="Shemale" target="Orgy" weight="0.00317745389238" />
+      <edge id="764" source="Shemale" target="Mature" weight="0.00225529995489" />
+      <edge id="765" source="Shemale" target="BBW" weight="0.00408618127786" />
+      <edge id="766" source="Shemale" target="Anal" weight="0.0066608284903" />
+      <edge id="767" source="Shemale" target="Young/Old" weight="0.00235719336843" />
+      <edge id="768" source="Shemale" target="Massage" weight="0.000632611102325" />
+      <edge id="769" source="Shemale" target="Masturbation" weight="0.00382791922739" />
+      <edge id="770" source="Shemale" target="MILF" weight="0.00192149327477" />
+      <edge id="771" source="Shemale" target="Brunette" weight="0.000906230333543" />
+      <edge id="772" source="Shemale" target="Squirting" weight="0.00262561164817" />
+      <edge id="773" source="Shemale" target="Straight Sex" weight="0.000549670197881" />
+      <edge id="774" source="Shemale" target="German" weight="0.000924169463495" />
+      <edge id="775" source="Shemale" target="Bisexual" weight="0.0137521909128" />
+      <edge id="776" source="Shemale" target="Dildos/Toys" weight="0.00272479564033" />
+      <edge id="777" source="Shemale" target="Handjob" weight="0.0014417211933" />
+      <edge id="778" source="Shemale" target="Couples" weight="0.00110098476971" />
+      <edge id="779" source="Shemale" target="Fantasy" weight="0.00427449168207" />
+      <edge id="780" source="Shemale" target="Fingering" weight="0.00069355527102" />
+      <edge id="781" source="Shemale" target="Asian" weight="0.00424088210348" />
+      <edge id="782" source="Shemale" target="Pantyhose" weight="0.00275254610515" />
+      <edge id="783" source="Shemale" target="Blonde" weight="0.00208521365659" />
+      <edge id="784" source="Shemale" target="Hentai" weight="0.00235190357195" />
+      <edge id="785" source="Shemale" target="Rimming" weight="0.0016335016335" />
+      <edge id="786" source="Shemale" target="Ebony" weight="0.0021001344086" />
+      <edge id="787" source="Shemale" target="Latina" weight="0.0021186440678" />
+      <edge id="788" source="Panties" target="Public" weight="0.0110736639384" />
+      <edge id="789" source="Panties" target="HD" weight="0.00449805765692" />
+      <edge id="790" source="Panties" target="European" weight="0.0090700782891" />
+      <edge id="791" source="Panties" target="Solo girl" weight="0.0221742543171" />
+      <edge id="792" source="Panties" target="Solo Male" weight="0.00111196646993" />
+      <edge id="793" source="Panties" target="Cunnilingus" weight="0.0140938119357" />
+      <edge id="794" source="Panties" target="Amateur" weight="0.00949139542687" />
+      <edge id="795" source="Panties" target="Gay" weight="0.00119175306876" />
+      <edge id="796" source="Panties" target="POV" weight="0.0309425862994" />
+      <edge id="797" source="Panties" target="Compilation" weight="0.00993377483444" />
+      <edge id="798" source="Panties" target="Big tits" weight="0.00780432858637" />
+      <edge id="799" source="Panties" target="Blowjob" weight="0.00550630193731" />
+      <edge id="800" source="Panties" target="Creampie" weight="0.00798286604361" />
+      <edge id="801" source="Panties" target="DP" weight="0.00527936647602" />
+      <edge id="802" source="Panties" target="Facial" weight="0.00741608118657" />
+      <edge id="803" source="Panties" target="Ebony" weight="0.00223831468071" />
+      <edge id="804" source="Panties" target="College" weight="0.0154639175258" />
+      <edge id="805" source="Panties" target="Lesbian" weight="0.00447685753484" />
+      <edge id="806" source="Panties" target="Instructional" weight="0.0123691722169" />
+      <edge id="807" source="Panties" target="Romantic" weight="0.0170658682635" />
+      <edge id="808" source="Panties" target="Swallow" weight="0.00784167289022" />
+      <edge id="809" source="Panties" target="Voyeur" weight="0.019963225637" />
+      <edge id="810" source="Panties" target="Cumshots" weight="0.00952441830734" />
+      <edge id="811" source="Panties" target="Interracial" weight="0.00227463186879" />
+      <edge id="812" source="Panties" target="Orgy" weight="0.00304668304668" />
+      <edge id="813" source="Panties" target="Mature" weight="0.00591385851372" />
+      <edge id="814" source="Panties" target="BBW" weight="0.00526234329051" />
+      <edge id="815" source="Panties" target="Kissing" weight="0.0112721417069" />
+      <edge id="816" source="Panties" target="Anal" weight="0.00391208266141" />
+      <edge id="817" source="Panties" target="Young/Old" weight="0.0106574062986" />
+      <edge id="818" source="Panties" target="Masturbation" weight="0.0137438382488" />
+      <edge id="819" source="Panties" target="MILF" weight="0.00922563548925" />
+      <edge id="820" source="Panties" target="Brunette" weight="0.0171612236699" />
+      <edge id="821" source="Panties" target="Squirting" weight="0.0136510300323" />
+      <edge id="822" source="Panties" target="Straight Sex" weight="0.0077849547288" />
+      <edge id="823" source="Panties" target="German" weight="0.00314620604565" />
+      <edge id="824" source="Panties" target="Bisexual" weight="0.00628535512256" />
+      <edge id="825" source="Panties" target="Dildos/Toys" weight="0.00928900684453" />
+      <edge id="826" source="Panties" target="Handjob" weight="0.0201298701299" />
+      <edge id="827" source="Panties" target="Couples" weight="0.00946636508335" />
+      <edge id="828" source="Panties" target="Fantasy" weight="0.0224299065421" />
+      <edge id="829" source="Panties" target="Teen" weight="0.0177600074387" />
+      <edge id="830" source="Panties" target="Fingering" weight="0.0207111048279" />
+      <edge id="831" source="Panties" target="Asian" weight="0.00440824865511" />
+      <edge id="832" source="Panties" target="Blonde" weight="0.013265009449" />
+      <edge id="833" source="Panties" target="Hentai" weight="0.00240384615385" />
+      <edge id="834" source="Panties" target="Rimming" weight="0.0137787056367" />
+      <edge id="835" source="Panties" target="Pantyhose" weight="0.0468970380818" />
+      <edge id="836" source="Panties" target="Latina" weight="0.00626100567404" />
+      <edge id="837" source="Anal" target="Kissing" weight="0.0247177557304" />
+      <edge id="838" source="Anal" target="Public" weight="0.0101506310218" />
+      <edge id="839" source="Anal" target="DP" weight="0.0716895666616" />
+      <edge id="840" source="Anal" target="European" weight="0.0834356148643" />
+      <edge id="841" source="Anal" target="Teen" weight="0.0854641124723" />
+      <edge id="842" source="Anal" target="Solo Male" weight="0.00308379413016" />
+      <edge id="843" source="Anal" target="Cunnilingus" weight="0.0305341551104" />
+      <edge id="844" source="Anal" target="Amateur" weight="0.0665820316928" />
+      <edge id="845" source="Anal" target="Gay" weight="0.073370971007" />
+      <edge id="846" source="Anal" target="POV" weight="0.0167410404945" />
+      <edge id="847" source="Anal" target="Compilation" weight="0.0096599690881" />
+      <edge id="848" source="Anal" target="Big tits" weight="0.0681488549618" />
+      <edge id="849" source="Anal" target="Blowjob" weight="0.112407794781" />
+      <edge id="850" source="Anal" target="Creampie" weight="0.0279953293652" />
+      <edge id="851" source="Anal" target="HD" weight="0.0708922815618" />
+      <edge id="852" source="Anal" target="Facial" weight="0.0397307585651" />
+      <edge id="853" source="Anal" target="College" weight="0.0209777563446" />
+      <edge id="854" source="Anal" target="3D" weight="0.000246199298332" />
+      <edge id="855" source="Anal" target="Lesbian" weight="0.0247325592027" />
+      <edge id="856" source="Anal" target="Solo girl" weight="0.0174772932804" />
+      <edge id="857" source="Anal" target="Instructional" weight="0.0026395631068" />
+      <edge id="858" source="Anal" target="Romantic" weight="0.0167101208817" />
+      <edge id="859" source="Anal" target="Voyeur" weight="0.00372047414415" />
+      <edge id="860" source="Anal" target="Cumshots" weight="0.0438902297309" />
+      <edge id="861" source="Anal" target="Interracial" weight="0.0429208472687" />
+      <edge id="862" source="Anal" target="Orgy" weight="0.071661237785" />
+      <edge id="863" source="Anal" target="Mature" weight="0.0199734368615" />
+      <edge id="864" source="Anal" target="BBW" weight="0.0212916962385" />
+      <edge id="865" source="Anal" target="Swallow" weight="0.0150934958213" />
+      <edge id="866" source="Anal" target="Young/Old" weight="0.0335600430661" />
+      <edge id="867" source="Anal" target="Massage" weight="0.00222181641101" />
+      <edge id="868" source="Anal" target="Masturbation" weight="0.0186993520758" />
+      <edge id="869" source="Anal" target="MILF" weight="0.0332789968652" />
+      <edge id="870" source="Anal" target="Brunette" weight="0.124663175555" />
+      <edge id="871" source="Anal" target="Squirting" weight="0.0142563240706" />
+      <edge id="872" source="Anal" target="Straight Sex" weight="0.116756032172" />
+      <edge id="873" source="Anal" target="German" weight="0.0924330832639" />
+      <edge id="874" source="Anal" target="Bisexual" weight="0.0162620997766" />
+      <edge id="875" source="Anal" target="Dildos/Toys" weight="0.0470563799589" />
+      <edge id="876" source="Anal" target="Handjob" weight="0.00388798106722" />
+      <edge id="877" source="Anal" target="Couples" weight="0.0329831478232" />
+      <edge id="878" source="Anal" target="Fantasy" weight="0.0185265344992" />
+      <edge id="879" source="Anal" target="Fingering" weight="0.0340118996056" />
+      <edge id="880" source="Anal" target="Asian" weight="0.0352134039624" />
+      <edge id="881" source="Anal" target="Pantyhose" weight="0.00701295613931" />
+      <edge id="882" source="Anal" target="Blonde" weight="0.109099139882" />
+      <edge id="883" source="Anal" target="Hentai" weight="0.00161836545089" />
+      <edge id="884" source="Anal" target="Rimming" weight="0.0218170675655" />
+      <edge id="885" source="Anal" target="Ebony" weight="0.0254424484365" />
+      <edge id="886" source="Anal" target="Latina" weight="0.0159740808565" />
+      <edge id="887" source="Ebony" target="Kissing" weight="0.00648166902978" />
+      <edge id="888" source="Ebony" target="Public" weight="0.00277206474112" />
+      <edge id="889" source="Ebony" target="HD" weight="0.0130936834147" />
+      <edge id="890" source="Ebony" target="European" weight="0.00689341223906" />
+      <edge id="891" source="Ebony" target="Solo girl" weight="0.00609517855747" />
+      <edge id="892" source="Ebony" target="Solo Male" weight="0.00140105078809" />
+      <edge id="893" source="Ebony" target="Cunnilingus" weight="0.0217013888889" />
+      <edge id="894" source="Ebony" target="Amateur" weight="0.00891997214361" />
+      <edge id="895" source="Ebony" target="Gay" weight="0.0137242087574" />
+      <edge id="896" source="Ebony" target="POV" weight="0.00584024114544" />
+      <edge id="897" source="Ebony" target="Compilation" weight="0.00340178908908" />
+      <edge id="898" source="Ebony" target="Big tits" weight="0.0287695687998" />
+      <edge id="899" source="Ebony" target="Blowjob" weight="0.0234798727601" />
+      <edge id="900" source="Ebony" target="Creampie" weight="0.0105147206089" />
+      <edge id="901" source="Ebony" target="DP" weight="0.00786397449522" />
+      <edge id="902" source="Ebony" target="Facial" weight="0.0149870112569" />
+      <edge id="903" source="Ebony" target="College" weight="0.00498084291188" />
+      <edge id="904" source="Ebony" target="3D" weight="0.0001539408867" />
+      <edge id="905" source="Ebony" target="Lesbian" weight="0.0176225741932" />
+      <edge id="906" source="Ebony" target="Instructional" weight="0.0031339031339" />
+      <edge id="907" source="Ebony" target="Romantic" weight="0.00471470019342" />
+      <edge id="908" source="Ebony" target="Voyeur" weight="0.00250712250712" />
+      <edge id="909" source="Ebony" target="Cumshots" weight="0.0152480878604" />
+      <edge id="910" source="Ebony" target="Interracial" weight="0.108644859813" />
+      <edge id="911" source="Ebony" target="Orgy" weight="0.00954797355946" />
+      <edge id="912" source="Ebony" target="Mature" weight="0.0046884016157" />
+      <edge id="913" source="Ebony" target="BBW" weight="0.0225867168594" />
+      <edge id="914" source="Ebony" target="Swallow" weight="0.00781860828772" />
+      <edge id="915" source="Ebony" target="Young/Old" weight="0.00557228915663" />
+      <edge id="916" source="Ebony" target="Massage" weight="0.000578034682081" />
+      <edge id="917" source="Ebony" target="Masturbation" weight="0.00766601056666" />
+      <edge id="918" source="Ebony" target="MILF" weight="0.00436190602075" />
+      <edge id="919" source="Ebony" target="Brunette" weight="0.00485521499888" />
+      <edge id="920" source="Ebony" target="Squirting" weight="0.00829224562976" />
+      <edge id="921" source="Ebony" target="Straight Sex" weight="0.0338573463573" />
+      <edge id="922" source="Ebony" target="German" weight="0.0112225405922" />
+      <edge id="923" source="Ebony" target="Bisexual" weight="0.00857462408351" />
+      <edge id="924" source="Ebony" target="Dildos/Toys" weight="0.0109104197118" />
+      <edge id="925" source="Ebony" target="Handjob" weight="0.00427707072815" />
+      <edge id="926" source="Ebony" target="Couples" weight="0.00545282124229" />
+      <edge id="927" source="Ebony" target="Fantasy" weight="0.00562892400953" />
+      <edge id="928" source="Ebony" target="Teen" weight="0.00660933568666" />
+      <edge id="929" source="Ebony" target="Fingering" weight="0.00859867632498" />
+      <edge id="930" source="Ebony" target="Asian" weight="0.00586301369863" />
+      <edge id="931" source="Ebony" target="Blonde" weight="0.00235344458708" />
+      <edge id="932" source="Ebony" target="Hentai" weight="0.00107991360691" />
+      <edge id="933" source="Ebony" target="Rimming" weight="0.00424018602106" />
+      <edge id="934" source="Ebony" target="Pantyhose" weight="0.00228862047044" />
+      <edge id="935" source="Ebony" target="Latina" weight="0.00923231309584" />
+      <edge id="936" source="European" target="Public" weight="0.0785447903189" />
+      <edge id="937" source="European" target="DP" weight="0.0368364030336" />
+      <edge id="938" source="European" target="Teen" weight="0.0691525667277" />
+      <edge id="939" source="European" target="Solo Male" weight="0.000651844954022" />
+      <edge id="940" source="European" target="Cunnilingus" weight="0.0486217692922" />
+      <edge id="941" source="European" target="Amateur" weight="0.0531714620299" />
+      <edge id="942" source="European" target="Solo girl" weight="0.0156736484574" />
+      <edge id="943" source="European" target="POV" weight="0.0145089285714" />
+      <edge id="944" source="European" target="Compilation" weight="0.00747232472325" />
+      <edge id="945" source="European" target="Big tits" weight="0.0282974669707" />
+      <edge id="946" source="European" target="Blowjob" weight="0.0967727094978" />
+      <edge id="947" source="European" target="Creampie" weight="0.0115512830452" />
+      <edge id="948" source="European" target="HD" weight="0.0198396478541" />
+      <edge id="949" source="European" target="Facial" weight="0.0440096396603" />
+      <edge id="950" source="European" target="Squirting" weight="0.00538222184846" />
+      <edge id="951" source="European" target="College" weight="0.015096108767" />
+      <edge id="952" source="European" target="Lesbian" weight="0.00847261447289" />
+      <edge id="953" source="European" target="Instructional" weight="0.00260703900531" />
+      <edge id="954" source="European" target="Romantic" weight="0.0154095701541" />
+      <edge id="955" source="European" target="Swallow" weight="0.0191244239631" />
+      <edge id="956" source="European" target="Voyeur" weight="0.015464362851" />
+      <edge id="957" source="European" target="Cumshots" weight="0.0482392026578" />
+      <edge id="958" source="European" target="Interracial" weight="0.0108912123475" />
+      <edge id="959" source="European" target="Orgy" weight="0.0798040738307" />
+      <edge id="960" source="European" target="Mature" weight="0.0376059972963" />
+      <edge id="961" source="European" target="BBW" weight="0.0119039233641" />
+      <edge id="962" source="European" target="Kissing" weight="0.0566207800721" />
+      <edge id="963" source="European" target="Young/Old" weight="0.0413049029622" />
+      <edge id="964" source="European" target="Massage" weight="0.000202449640652" />
+      <edge id="965" source="European" target="Masturbation" weight="0.0149055769595" />
+      <edge id="966" source="European" target="MILF" weight="0.0390933547021" />
+      <edge id="967" source="European" target="Brunette" weight="0.081577107471" />
+      <edge id="968" source="European" target="Gay" weight="0.0467079585949" />
+      <edge id="969" source="European" target="Straight Sex" weight="0.110375388377" />
+      <edge id="970" source="European" target="German" weight="0.183405256964" />
+      <edge id="971" source="European" target="Bisexual" weight="0.00581342537924" />
+      <edge id="972" source="European" target="Dildos/Toys" weight="0.0231939860653" />
+      <edge id="973" source="European" target="Handjob" weight="0.00639795265515" />
+      <edge id="974" source="European" target="Couples" weight="0.0769272353768" />
+      <edge id="975" source="European" target="Fantasy" weight="0.0290731871271" />
+      <edge id="976" source="European" target="Fingering" weight="0.0347370373806" />
+      <edge id="977" source="European" target="Asian" weight="0.00504550384307" />
+      <edge id="978" source="European" target="Blonde" weight="0.0843468502624" />
+      <edge id="979" source="European" target="Hentai" weight="0.00096497153334" />
+      <edge id="980" source="European" target="Rimming" weight="0.0078285546531" />
+      <edge id="981" source="European" target="Pantyhose" weight="0.0120436933993" />
+      <edge id="982" source="European" target="Latina" weight="0.0045542261675" />
+      <edge id="983" source="Teen" target="Latina" weight="0.0134510473494" />
+      <edge id="984" source="Teen" target="Kissing" weight="0.0525469401947" />
+      <edge id="985" source="Teen" target="Public" weight="0.0308115320852" />
+      <edge id="986" source="Teen" target="HD" weight="0.0840042609062" />
+      <edge id="987" source="Teen" target="Solo girl" weight="0.0773516350424" />
+      <edge id="988" source="Teen" target="Solo Male" weight="0.0013829983404" />
+      <edge id="989" source="Teen" target="Cunnilingus" weight="0.0687864534337" />
+      <edge id="990" source="Teen" target="Amateur" weight="0.124935128786" />
+      <edge id="991" source="Teen" target="Gay" weight="0.0219465107035" />
+      <edge id="992" source="Teen" target="POV" weight="0.0478209757326" />
+      <edge id="993" source="Teen" target="Compilation" weight="0.00957697893972" />
+      <edge id="994" source="Teen" target="Big tits" weight="0.0517495483503" />
+      <edge id="995" source="Teen" target="Blowjob" weight="0.121988324111" />
+      <edge id="996" source="Teen" target="Creampie" weight="0.0320149064115" />
+      <edge id="997" source="Teen" target="DP" weight="0.00921600271808" />
+      <edge id="998" source="Teen" target="Facial" weight="0.0556111866104" />
+      <edge id="999" source="Teen" target="College" weight="0.0444213901726" />
+      <edge id="1000" source="Teen" target="3D" weight="0.000337040781935" />
+      <edge id="1001" source="Teen" target="Lesbian" weight="0.0309239824359" />
+      <edge id="1002" source="Teen" target="Instructional" weight="0.00353007624965" />
+      <edge id="1003" source="Teen" target="Romantic" weight="0.0330162794952" />
+      <edge id="1004" source="Teen" target="Swallow" weight="0.0209665365773" />
+      <edge id="1005" source="Teen" target="Voyeur" weight="0.0109524226759" />
+      <edge id="1006" source="Teen" target="MILF" weight="0.0152934692753" />
+      <edge id="1007" source="Teen" target="Interracial" weight="0.00937419898202" />
+      <edge id="1008" source="Teen" target="Orgy" weight="0.0320146031523" />
+      <edge id="1009" source="Teen" target="Mature" weight="0.00782450248312" />
+      <edge id="1010" source="Teen" target="BBW" weight="0.0170645761571" />
+      <edge id="1011" source="Teen" target="Young/Old" weight="0.0618683472313" />
+      <edge id="1012" source="Teen" target="Massage" weight="0.00264812975836" />
+      <edge id="1013" source="Teen" target="Masturbation" weight="0.0611387830843" />
+      <edge id="1014" source="Teen" target="Cumshots" weight="0.0513567929801" />
+      <edge id="1015" source="Teen" target="Brunette" weight="0.150325283702" />
+      <edge id="1016" source="Teen" target="Squirting" weight="0.0193116132422" />
+      <edge id="1017" source="Teen" target="Straight Sex" weight="0.143898527482" />
+      <edge id="1018" source="Teen" target="German" weight="0.0236761563781" />
+      <edge id="1019" source="Teen" target="Bisexual" weight="0.0161070780399" />
+      <edge id="1020" source="Teen" target="Dildos/Toys" weight="0.0427721299281" />
+      <edge id="1021" source="Teen" target="Handjob" weight="0.00767155622998" />
+      <edge id="1022" source="Teen" target="Couples" weight="0.0991380826737" />
+      <edge id="1023" source="Teen" target="Fantasy" weight="0.0361821858788" />
+      <edge id="1024" source="Teen" target="Fingering" weight="0.075086306099" />
+      <edge id="1025" source="Teen" target="Asian" weight="0.0392637646085" />
+      <edge id="1026" source="Teen" target="Blonde" weight="0.113386944182" />
+      <edge id="1027" source="Teen" target="Hentai" weight="0.00175462898832" />
+      <edge id="1028" source="Teen" target="Rimming" weight="0.0046466242275" />
+      <edge id="1029" source="Teen" target="Pantyhose" weight="0.00526172548308" />
+      <edge id="1030" source="Solo Male" target="Swallow" weight="0.000661603196867" />
+      <edge id="1031" source="Solo Male" target="HD" weight="0.000860706130335" />
+      <edge id="1032" source="Solo Male" target="Solo girl" weight="0.000300559792614" />
+      <edge id="1033" source="Solo Male" target="Cunnilingus" weight="0.000240303743932" />
+      <edge id="1034" source="Solo Male" target="Amateur" weight="0.0210641002361" />
+      <edge id="1035" source="Solo Male" target="Gay" weight="0.0120917989636" />
+      <edge id="1036" source="Solo Male" target="POV" weight="0.000445480988444" />
+      <edge id="1037" source="Solo Male" target="Compilation" weight="0.000620732464308" />
+      <edge id="1038" source="Solo Male" target="Big tits" weight="0.000400396915203" />
+      <edge id="1039" source="Solo Male" target="Public" weight="0.00235610905419" />
+      <edge id="1040" source="Solo Male" target="Blowjob" weight="0.000928543710849" />
+      <edge id="1041" source="Solo Male" target="Creampie" weight="0.000798700780064" />
+      <edge id="1042" source="Solo Male" target="DP" weight="0.000297514402402" />
+      <edge id="1043" source="Solo Male" target="Facial" weight="0.00211029825549" />
+      <edge id="1044" source="Solo Male" target="College" weight="0.000197952604491" />
+      <edge id="1045" source="Solo Male" target="3D" weight="8.82508678002e-05" />
+      <edge id="1046" source="Solo Male" target="Lesbian" weight="0.000172722758382" />
+      <edge id="1047" source="Solo Male" target="Instructional" weight="0.000579340710272" />
+      <edge id="1048" source="Solo Male" target="Romantic" weight="0.000586756077117" />
+      <edge id="1049" source="Solo Male" target="Voyeur" weight="0.000965197727649" />
+      <edge id="1050" source="Solo Male" target="Cumshots" weight="0.0298220503728" />
+      <edge id="1051" source="Solo Male" target="Interracial" weight="0.000343372902973" />
+      <edge id="1052" source="Solo Male" target="Orgy" weight="0.000234686693264" />
+      <edge id="1053" source="Solo Male" target="Mature" weight="0.00159562894374" />
+      <edge id="1054" source="Solo Male" target="BBW" weight="0.000720146086778" />
+      <edge id="1055" source="Solo Male" target="Kissing" weight="0.000293905469314" />
+      <edge id="1056" source="Solo Male" target="Young/Old" weight="0.000514289912571" />
+      <edge id="1057" source="Solo Male" target="Massage" weight="0.000116211504939" />
+      <edge id="1058" source="Solo Male" target="Masturbation" weight="0.0624566533581" />
+      <edge id="1059" source="Solo Male" target="MILF" weight="0.000257695731622" />
+      <edge id="1060" source="Solo Male" target="Brunette" weight="0.000206355757326" />
+      <edge id="1061" source="Solo Male" target="Squirting" weight="0.000850083637261" />
+      <edge id="1062" source="Solo Male" target="Straight Sex" weight="0.000249537621466" />
+      <edge id="1063" source="Solo Male" target="German" weight="0.00102827763496" />
+      <edge id="1064" source="Solo Male" target="Bisexual" weight="0.00157480314961" />
+      <edge id="1065" source="Solo Male" target="Dildos/Toys" weight="0.00482418524871" />
+      <edge id="1066" source="Solo Male" target="Handjob" weight="0.00552501151044" />
+      <edge id="1067" source="Solo Male" target="Couples" weight="0.000292456862613" />
+      <edge id="1068" source="Solo Male" target="Fantasy" weight="0.000543921675279" />
+      <edge id="1069" source="Solo Male" target="Fingering" weight="0.000405679513185" />
+      <edge id="1070" source="Solo Male" target="Asian" weight="0.00207595821861" />
+      <edge id="1071" source="Solo Male" target="Pantyhose" weight="0.000282701495491" />
+      <edge id="1072" source="Solo Male" target="Blonde" weight="0.000331812525923" />
+      <edge id="1073" source="Solo Male" target="Hentai" weight="0.000200521355524" />
+      <edge id="1074" source="Solo Male" target="Rimming" weight="0.000258375678236" />
+      <edge id="1075" source="Solo Male" target="Latina" weight="0.000986140724947" />
+      <edge id="1076" source="Cunnilingus" target="Kissing" weight="0.158465555332" />
+      <edge id="1077" source="Cunnilingus" target="Public" weight="0.0147315064153" />
+      <edge id="1078" source="Cunnilingus" target="HD" weight="0.0139314845024" />
+      <edge id="1079" source="Cunnilingus" target="Amateur" weight="0.0313600710374" />
+      <edge id="1080" source="Cunnilingus" target="Gay" weight="0.000643804455127" />
+      <edge id="1081" source="Cunnilingus" target="POV" weight="0.00904159132007" />
+      <edge id="1082" source="Cunnilingus" target="Compilation" weight="0.00599684376644" />
+      <edge id="1083" source="Cunnilingus" target="Big tits" weight="0.0494746641841" />
+      <edge id="1084" source="Cunnilingus" target="Blowjob" weight="0.0740105265599" />
+      <edge id="1085" source="Cunnilingus" target="Creampie" weight="0.0275140646976" />
+      <edge id="1086" source="Cunnilingus" target="DP" weight="0.0102096627165" />
+      <edge id="1087" source="Cunnilingus" target="Facial" weight="0.0409942496754" />
+      <edge id="1088" source="Cunnilingus" target="College" weight="0.0224646290096" />
+      <edge id="1089" source="Cunnilingus" target="Lesbian" weight="0.16033179933" />
+      <edge id="1090" source="Cunnilingus" target="Solo girl" weight="0.00205188333578" />
+      <edge id="1091" source="Cunnilingus" target="Instructional" weight="0.00711038582585" />
+      <edge id="1092" source="Cunnilingus" target="Romantic" weight="0.0467990703571" />
+      <edge id="1093" source="Cunnilingus" target="Swallow" weight="0.0121526302371" />
+      <edge id="1094" source="Cunnilingus" target="Voyeur" weight="0.0123685235684" />
+      <edge id="1095" source="Cunnilingus" target="MILF" weight="0.0384591603289" />
+      <edge id="1096" source="Cunnilingus" target="Interracial" weight="0.0256339581036" />
+      <edge id="1097" source="Cunnilingus" target="Orgy" weight="0.0253925417076" />
+      <edge id="1098" source="Cunnilingus" target="Mature" weight="0.0227916474541" />
+      <edge id="1099" source="Cunnilingus" target="BBW" weight="0.010723443935" />
+      <edge id="1100" source="Cunnilingus" target="Young/Old" weight="0.0668569389939" />
+      <edge id="1101" source="Cunnilingus" target="Massage" weight="0.00188102515871" />
+      <edge id="1102" source="Cunnilingus" target="Masturbation" weight="0.00838711791108" />
+      <edge id="1103" source="Cunnilingus" target="Cumshots" weight="0.0402481111837" />
+      <edge id="1104" source="Cunnilingus" target="Brunette" weight="0.0795594895019" />
+      <edge id="1105" source="Cunnilingus" target="Squirting" weight="0.0163053903702" />
+      <edge id="1106" source="Cunnilingus" target="Straight Sex" weight="0.0993675663014" />
+      <edge id="1107" source="Cunnilingus" target="German" weight="0.0297535609315" />
+      <edge id="1108" source="Cunnilingus" target="Bisexual" weight="0.0110324729392" />
+      <edge id="1109" source="Cunnilingus" target="Dildos/Toys" weight="0.0407605997418" />
+      <edge id="1110" source="Cunnilingus" target="Handjob" weight="0.00690706853247" />
+      <edge id="1111" source="Cunnilingus" target="Couples" weight="0.103632796242" />
+      <edge id="1112" source="Cunnilingus" target="Fantasy" weight="0.0646328346534" />
+      <edge id="1113" source="Cunnilingus" target="Fingering" weight="0.122528797214" />
+      <edge id="1114" source="Cunnilingus" target="Asian" weight="0.0171262551608" />
+      <edge id="1115" source="Cunnilingus" target="Pantyhose" weight="0.011630388391" />
+      <edge id="1116" source="Cunnilingus" target="Blonde" weight="0.0987476838541" />
+      <edge id="1117" source="Cunnilingus" target="Hentai" weight="0.000777173309648" />
+      <edge id="1118" source="Cunnilingus" target="Rimming" weight="0.026878015162" />
+      <edge id="1119" source="Cunnilingus" target="Latina" weight="0.0104031209363" />
+      <edge id="1120" source="Amateur" target="Latina" weight="0.0229302738851" />
+      <edge id="1121" source="Amateur" target="Kissing" weight="0.015818122606" />
+      <edge id="1122" source="Amateur" target="Public" weight="0.0410145289019" />
+      <edge id="1123" source="Amateur" target="Solo girl" weight="0.0628022480721" />
+      <edge id="1124" source="Amateur" target="Gay" weight="0.00250363221254" />
+      <edge id="1125" source="Amateur" target="POV" weight="0.0423924845395" />
+      <edge id="1126" source="Amateur" target="Compilation" weight="0.00563531888623" />
+      <edge id="1127" source="Amateur" target="Big tits" weight="0.073741165246" />
+      <edge id="1128" source="Amateur" target="Blowjob" weight="0.1523912394" />
+      <edge id="1129" source="Amateur" target="Creampie" weight="0.0244663587567" />
+      <edge id="1130" source="Amateur" target="DP" weight="0.0048971142557" />
+      <edge id="1131" source="Amateur" target="Facial" weight="0.0457882220876" />
+      <edge id="1132" source="Amateur" target="College" weight="0.0147978691068" />
+      <edge id="1133" source="Amateur" target="3D" weight="9.66868634781e-05" />
+      <edge id="1134" source="Amateur" target="Lesbian" weight="0.0143998690921" />
+      <edge id="1135" source="Amateur" target="HD" weight="0.0570118199784" />
+      <edge id="1136" source="Amateur" target="Instructional" weight="0.00204868835929" />
+      <edge id="1137" source="Amateur" target="Romantic" weight="0.013615157574" />
+      <edge id="1138" source="Amateur" target="Swallow" weight="0.0259457102366" />
+      <edge id="1139" source="Amateur" target="Voyeur" weight="0.0149973979278" />
+      <edge id="1140" source="Amateur" target="Cumshots" weight="0.0653257909072" />
+      <edge id="1141" source="Amateur" target="Interracial" weight="0.0128572899657" />
+      <edge id="1142" source="Amateur" target="Orgy" weight="0.033527313136" />
+      <edge id="1143" source="Amateur" target="Mature" weight="0.0222712562518" />
+      <edge id="1144" source="Amateur" target="BBW" weight="0.0217706378629" />
+      <edge id="1145" source="Amateur" target="Young/Old" weight="0.0264357202431" />
+      <edge id="1146" source="Amateur" target="Massage" weight="0.00110541493111" />
+      <edge id="1147" source="Amateur" target="Masturbation" weight="0.055380515324" />
+      <edge id="1148" source="Amateur" target="MILF" weight="0.0293552891889" />
+      <edge id="1149" source="Amateur" target="Brunette" weight="0.147500388789" />
+      <edge id="1150" source="Amateur" target="Squirting" weight="0.0100120457425" />
+      <edge id="1151" source="Amateur" target="Straight Sex" weight="0.172124756335" />
+      <edge id="1152" source="Amateur" target="German" weight="0.0513336895319" />
+      <edge id="1153" source="Amateur" target="Bisexual" weight="0.00751510932506" />
+      <edge id="1154" source="Amateur" target="Dildos/Toys" weight="0.0330470268705" />
+      <edge id="1155" source="Amateur" target="Handjob" weight="0.0132264030711" />
+      <edge id="1156" source="Amateur" target="Couples" weight="0.106265824716" />
+      <edge id="1157" source="Amateur" target="Fantasy" weight="0.0157877425721" />
+      <edge id="1158" source="Amateur" target="Fingering" weight="0.0470420527441" />
+      <edge id="1159" source="Amateur" target="Asian" weight="0.0273508074603" />
+      <edge id="1160" source="Amateur" target="Blonde" weight="0.0967541736486" />
+      <edge id="1161" source="Amateur" target="Hentai" weight="0.000492454328832" />
+      <edge id="1162" source="Amateur" target="Rimming" weight="0.00256590061518" />
+      <edge id="1163" source="Amateur" target="Pantyhose" weight="0.00320973990039" />
+      <edge id="1164" source="Gay" target="Kissing" weight="0.0358496696632" />
+      <edge id="1165" source="Gay" target="Swallow" weight="0.00816790736146" />
+      <edge id="1166" source="Gay" target="HD" weight="0.0137370559706" />
+      <edge id="1167" source="Gay" target="Solo girl" weight="0.000372204884473" />
+      <edge id="1168" source="Gay" target="POV" weight="0.000654746915135" />
+      <edge id="1169" source="Gay" target="Compilation" weight="0.00268880056114" />
+      <edge id="1170" source="Gay" target="Big tits" weight="0.000638879660627" />
+      <edge id="1171" source="Gay" target="Public" weight="0.00265356265356" />
+      <edge id="1172" source="Gay" target="Blowjob" weight="0.0412337286106" />
+      <edge id="1173" source="Gay" target="Creampie" weight="0.00239147387575" />
+      <edge id="1174" source="Gay" target="DP" weight="0.00257704284334" />
+      <edge id="1175" source="Gay" target="Facial" weight="0.012140045577" />
+      <edge id="1176" source="Gay" target="College" weight="0.00111502347418" />
+      <edge id="1177" source="Gay" target="3D" weight="0.000191277735272" />
+      <edge id="1178" source="Gay" target="Lesbian" weight="0.000571448980321" />
+      <edge id="1179" source="Gay" target="Instructional" weight="0.000863238377112" />
+      <edge id="1180" source="Gay" target="Romantic" weight="0.00280770112308" />
+      <edge id="1181" source="Gay" target="Voyeur" weight="0.00122460339549" />
+      <edge id="1182" source="Gay" target="Cumshots" weight="0.032212401602" />
+      <edge id="1183" source="Gay" target="Interracial" weight="0.010338937337" />
+      <edge id="1184" source="Gay" target="Orgy" weight="0.0138460255234" />
+      <edge id="1185" source="Gay" target="Mature" weight="0.00277597050531" />
+      <edge id="1186" source="Gay" target="BBW" weight="0.00131246354268" />
+      <edge id="1187" source="Gay" target="Young/Old" weight="0.00553077609277" />
+      <edge id="1188" source="Gay" target="Massage" weight="0.000186208180746" />
+      <edge id="1189" source="Gay" target="Masturbation" weight="0.0128817675474" />
+      <edge id="1190" source="Gay" target="MILF" weight="0.000492307692308" />
+      <edge id="1191" source="Gay" target="Brunette" weight="0.000424011145436" />
+      <edge id="1192" source="Gay" target="Squirting" weight="0.00055011552426" />
+      <edge id="1193" source="Gay" target="Straight Sex" weight="0.000562192550949" />
+      <edge id="1194" source="Gay" target="German" weight="0.00121999472435" />
+      <edge id="1195" source="Gay" target="Bisexual" weight="0.00715823779317" />
+      <edge id="1196" source="Gay" target="Dildos/Toys" weight="0.00730210244109" />
+      <edge id="1197" source="Gay" target="Handjob" weight="0.00609527883227" />
+      <edge id="1198" source="Gay" target="Couples" weight="0.0032990639865" />
+      <edge id="1199" source="Gay" target="Fantasy" weight="0.00347523892268" />
+      <edge id="1200" source="Gay" target="Fingering" weight="0.00245838308632" />
+      <edge id="1201" source="Gay" target="Asian" weight="0.00283956460009" />
+      <edge id="1202" source="Gay" target="Pantyhose" weight="0.000762016412661" />
+      <edge id="1203" source="Gay" target="Blonde" weight="0.00114457400386" />
+      <edge id="1204" source="Gay" target="Hentai" weight="0.00132657983599" />
+      <edge id="1205" source="Gay" target="Rimming" weight="0.00706627680312" />
+      <edge id="1206" source="Gay" target="Latina" weight="0.00239570855685" />
+      <edge id="1207" source="POV" target="Kissing" weight="0.00747198007472" />
+      <edge id="1208" source="POV" target="Swallow" weight="0.0739753838345" />
+      <edge id="1209" source="POV" target="HD" weight="0.0182039282161" />
+      <edge id="1210" source="POV" target="Solo girl" weight="0.00635762704728" />
+      <edge id="1211" source="POV" target="Compilation" weight="0.0107420261114" />
+      <edge id="1212" source="POV" target="Big tits" weight="0.032383609928" />
+      <edge id="1213" source="POV" target="Public" weight="0.0209287115762" />
+      <edge id="1214" source="POV" target="Blowjob" weight="0.061209841097" />
+      <edge id="1215" source="POV" target="Creampie" weight="0.0334754262788" />
+      <edge id="1216" source="POV" target="DP" weight="0.00288941423693" />
+      <edge id="1217" source="POV" target="Facial" weight="0.0753292643752" />
+      <edge id="1218" source="POV" target="College" weight="0.016717325228" />
+      <edge id="1219" source="POV" target="Lesbian" weight="0.00301311591634" />
+      <edge id="1220" source="POV" target="Instructional" weight="0.00405953991881" />
+      <edge id="1221" source="POV" target="Romantic" weight="0.00826833073323" />
+      <edge id="1222" source="POV" target="Voyeur" weight="0.00900246841876" />
+      <edge id="1223" source="POV" target="Cumshots" weight="0.0773493287632" />
+      <edge id="1224" source="POV" target="Interracial" weight="0.00456701212015" />
+      <edge id="1225" source="POV" target="Orgy" weight="0.00256836380118" />
+      <edge id="1226" source="POV" target="Mature" weight="0.00474051896208" />
+      <edge id="1227" source="POV" target="BBW" weight="0.00748155953635" />
+      <edge id="1228" source="POV" target="Young/Old" weight="0.0131196618825" />
+      <edge id="1229" source="POV" target="Massage" weight="0.000197044334975" />
+      <edge id="1230" source="POV" target="Masturbation" weight="0.00692576901824" />
+      <edge id="1231" source="POV" target="MILF" weight="0.0139764527155" />
+      <edge id="1232" source="POV" target="Brunette" weight="0.0531929440722" />
+      <edge id="1233" source="POV" target="Squirting" weight="0.0118879139541" />
+      <edge id="1234" source="POV" target="Straight Sex" weight="0.0512695444815" />
+      <edge id="1235" source="POV" target="German" weight="0.00556711758585" />
+      <edge id="1236" source="POV" target="Bisexual" weight="0.00416533162448" />
+      <edge id="1237" source="POV" target="Dildos/Toys" weight="0.00770868089513" />
+      <edge id="1238" source="POV" target="Handjob" weight="0.033479473894" />
+      <edge id="1239" source="POV" target="Couples" weight="0.0505247063729" />
+      <edge id="1240" source="POV" target="Fantasy" weight="0.0154182016646" />
+      <edge id="1241" source="POV" target="Fingering" weight="0.00980618366405" />
+      <edge id="1242" source="POV" target="Asian" weight="0.0106519742883" />
+      <edge id="1243" source="POV" target="Pantyhose" weight="0.00466122856667" />
+      <edge id="1244" source="POV" target="Blonde" weight="0.0403402023733" />
+      <edge id="1245" source="POV" target="Hentai" weight="0.00125876640892" />
+      <edge id="1246" source="POV" target="Rimming" weight="0.00493872324858" />
+      <edge id="1247" source="POV" target="Latina" weight="0.0147095179234" />
+      <edge id="1248" source="Compilation" target="Kissing" weight="0.00655307994758" />
+      <edge id="1249" source="Compilation" target="DP" weight="0.0106776180698" />
+      <edge id="1250" source="Compilation" target="Solo girl" weight="0.00417061611374" />
+      <edge id="1251" source="Compilation" target="Big tits" weight="0.00833531793284" />
+      <edge id="1252" source="Compilation" target="Public" weight="0.00468207219453" />
+      <edge id="1253" source="Compilation" target="Blowjob" weight="0.00818375800176" />
+      <edge id="1254" source="Compilation" target="Creampie" weight="0.0174825174825" />
+      <edge id="1255" source="Compilation" target="HD" weight="0.00686951953772" />
+      <edge id="1256" source="Compilation" target="Facial" weight="0.0443118458378" />
+      <edge id="1257" source="Compilation" target="College" weight="0.0235221293717" />
+      <edge id="1258" source="Compilation" target="Lesbian" weight="0.0033061339336" />
+      <edge id="1259" source="Compilation" target="Instructional" weight="0.00608519269777" />
+      <edge id="1260" source="Compilation" target="Romantic" weight="0.0181966322651" />
+      <edge id="1261" source="Compilation" target="Voyeur" weight="0.00761360932667" />
+      <edge id="1262" source="Compilation" target="Cumshots" weight="0.0434304918245" />
+      <edge id="1263" source="Compilation" target="Interracial" weight="0.00298919291791" />
+      <edge id="1264" source="Compilation" target="Orgy" weight="0.00657832014491" />
+      <edge id="1265" source="Compilation" target="Mature" weight="0.00428862442372" />
+      <edge id="1266" source="Compilation" target="BBW" weight="0.00973307771715" />
+      <edge id="1267" source="Compilation" target="Swallow" weight="0.0362227428365" />
+      <edge id="1268" source="Compilation" target="Young/Old" weight="0.00883534136546" />
+      <edge id="1269" source="Compilation" target="Massage" weight="0.000847457627119" />
+      <edge id="1270" source="Compilation" target="Masturbation" weight="0.00469311132876" />
+      <edge id="1271" source="Compilation" target="MILF" weight="0.00653038046564" />
+      <edge id="1272" source="Compilation" target="Brunette" weight="0.00542089149791" />
+      <edge id="1273" source="Compilation" target="Squirting" weight="0.0164986251146" />
+      <edge id="1274" source="Compilation" target="Straight Sex" weight="0.00492981283422" />
+      <edge id="1275" source="Compilation" target="German" weight="0.00954059309674" />
+      <edge id="1276" source="Compilation" target="Bisexual" weight="0.0142694063927" />
+      <edge id="1277" source="Compilation" target="Dildos/Toys" weight="0.00632222977566" />
+      <edge id="1278" source="Compilation" target="Handjob" weight="0.0125949620152" />
+      <edge id="1279" source="Compilation" target="Couples" weight="0.00812875955129" />
+      <edge id="1280" source="Compilation" target="Fantasy" weight="0.0113368983957" />
+      <edge id="1281" source="Compilation" target="Fingering" weight="0.00577956075338" />
+      <edge id="1282" source="Compilation" target="Asian" weight="0.00649350649351" />
+      <edge id="1283" source="Compilation" target="Pantyhose" weight="0.00362647325476" />
+      <edge id="1284" source="Compilation" target="Blonde" weight="0.00645230286611" />
+      <edge id="1285" source="Compilation" target="Hentai" weight="0.00245872848613" />
+      <edge id="1286" source="Compilation" target="Rimming" weight="0.00578871201158" />
+      <edge id="1287" source="Compilation" target="Latina" weight="0.00457038391225" />
+      <edge id="1288" source="Big tits" target="Latina" weight="0.0189735037984" />
+      <edge id="1289" source="Big tits" target="Kissing" weight="0.0169755952602" />
+      <edge id="1290" source="Big tits" target="Swallow" weight="0.0192448949611" />
+      <edge id="1291" source="Big tits" target="Solo girl" weight="0.0732301269786" />
+      <edge id="1292" source="Big tits" target="Public" weight="0.0152712326826" />
+      <edge id="1293" source="Big tits" target="Blowjob" weight="0.117657634981" />
+      <edge id="1294" source="Big tits" target="Creampie" weight="0.0222032450897" />
+      <edge id="1295" source="Big tits" target="DP" weight="0.00956166335446" />
+      <edge id="1296" source="Big tits" target="Facial" weight="0.0663403491597" />
+      <edge id="1297" source="Big tits" target="College" weight="0.0229578432561" />
+      <edge id="1298" source="Big tits" target="3D" weight="0.000125344697919" />
+      <edge id="1299" source="Big tits" target="Lesbian" weight="0.0314570949117" />
+      <edge id="1300" source="Big tits" target="HD" weight="0.0705256913389" />
+      <edge id="1301" source="Big tits" target="Instructional" weight="0.00151360196359" />
+      <edge id="1302" source="Big tits" target="Romantic" weight="0.0221084385171" />
+      <edge id="1303" source="Big tits" target="Voyeur" weight="0.0138727876961" />
+      <edge id="1304" source="Big tits" target="MILF" weight="0.0969682710406" />
+      <edge id="1305" source="Big tits" target="Interracial" weight="0.0298642533937" />
+      <edge id="1306" source="Big tits" target="Orgy" weight="0.0200181698568" />
+      <edge id="1307" source="Big tits" target="Mature" weight="0.0544201680672" />
+      <edge id="1308" source="Big tits" target="BBW" weight="0.0960449830933" />
+      <edge id="1309" source="Big tits" target="Young/Old" weight="0.0439705732786" />
+      <edge id="1310" source="Big tits" target="Massage" weight="0.00242748405678" />
+      <edge id="1311" source="Big tits" target="Masturbation" weight="0.059857233791" />
+      <edge id="1312" source="Big tits" target="Cumshots" weight="0.0796728178422" />
+      <edge id="1313" source="Big tits" target="Brunette" weight="0.142140104733" />
+      <edge id="1314" source="Big tits" target="Squirting" weight="0.0179423995072" />
+      <edge id="1315" source="Big tits" target="Straight Sex" weight="0.169589818973" />
+      <edge id="1316" source="Big tits" target="German" weight="0.0312458272132" />
+      <edge id="1317" source="Big tits" target="Bisexual" weight="0.0132424074221" />
+      <edge id="1318" source="Big tits" target="Dildos/Toys" weight="0.0484261501211" />
+      <edge id="1319" source="Big tits" target="Handjob" weight="0.0161429590419" />
+      <edge id="1320" source="Big tits" target="Couples" weight="0.0629344702938" />
+      <edge id="1321" source="Big tits" target="Fantasy" weight="0.0358859091614" />
+      <edge id="1322" source="Big tits" target="Fingering" weight="0.06059033783" />
+      <edge id="1323" source="Big tits" target="Asian" weight="0.0351338846799" />
+      <edge id="1324" source="Big tits" target="Blonde" weight="0.161583462437" />
+      <edge id="1325" source="Big tits" target="Hentai" weight="0.0025814778961" />
+      <edge id="1326" source="Big tits" target="Rimming" weight="0.00397018311457" />
+      <edge id="1327" source="Big tits" target="Pantyhose" weight="0.0100111678366" />
+      <edge id="1328" source="Public" target="Kissing" weight="0.00818139317438" />
+      <edge id="1329" source="Public" target="HD" weight="0.0163088580191" />
+      <edge id="1330" source="Public" target="Solo girl" weight="0.0176563671192" />
+      <edge id="1331" source="Public" target="Blowjob" weight="0.0452925595955" />
+      <edge id="1332" source="Public" target="Creampie" weight="0.0109396591433" />
+      <edge id="1333" source="Public" target="DP" weight="0.00442477876106" />
+      <edge id="1334" source="Public" target="Facial" weight="0.0191744730679" />
+      <edge id="1335" source="Public" target="Fingering" weight="0.0101338110968" />
+      <edge id="1336" source="Public" target="Lesbian" weight="0.00441615049323" />
+      <edge id="1337" source="Public" target="Instructional" weight="0.00227391988805" />
+      <edge id="1338" source="Public" target="Romantic" weight="0.00893758108693" />
+      <edge id="1339" source="Public" target="Voyeur" weight="0.0575021192427" />
+      <edge id="1340" source="Public" target="Cumshots" weight="0.0211656926236" />
+      <edge id="1341" source="Public" target="Interracial" weight="0.00410901467505" />
+      <edge id="1342" source="Public" target="Orgy" weight="0.0746361584559" />
+      <edge id="1343" source="Public" target="Mature" weight="0.00606012279723" />
+      <edge id="1344" source="Public" target="BBW" weight="0.00698115089259" />
+      <edge id="1345" source="Public" target="Swallow" weight="0.0102143899428" />
+      <edge id="1346" source="Public" target="Young/Old" weight="0.0128690386071" />
+      <edge id="1347" source="Public" target="Massage" weight="0.000534854697807" />
+      <edge id="1348" source="Public" target="Masturbation" weight="0.00690078762916" />
+      <edge id="1349" source="Public" target="MILF" weight="0.00805866124583" />
+      <edge id="1350" source="Public" target="Brunette" weight="0.0335645084441" />
+      <edge id="1351" source="Public" target="Squirting" weight="0.0204460966543" />
+      <edge id="1352" source="Public" target="Straight Sex" weight="0.0483514140256" />
+      <edge id="1353" source="Public" target="German" weight="0.0368533695255" />
+      <edge id="1354" source="Public" target="Bisexual" weight="0.00621118012422" />
+      <edge id="1355" source="Public" target="Dildos/Toys" weight="0.00646707922172" />
+      <edge id="1356" source="Public" target="Handjob" weight="0.00934692886623" />
+      <edge id="1357" source="Public" target="Couples" weight="0.0244796439325" />
+      <edge id="1358" source="Public" target="Fantasy" weight="0.0255816943052" />
+      <edge id="1359" source="Public" target="College" weight="0.0189588189588" />
+      <edge id="1360" source="Public" target="Asian" weight="0.00822193304152" />
+      <edge id="1361" source="Public" target="Pantyhose" weight="0.00351252290776" />
+      <edge id="1362" source="Public" target="Blonde" weight="0.028486491784" />
+      <edge id="1363" source="Public" target="Hentai" weight="0.00114810562572" />
+      <edge id="1364" source="Public" target="Rimming" weight="0.00249376558603" />
+      <edge id="1365" source="Public" target="Latina" weight="0.00714038926638" />
+      <edge id="1366" source="Blowjob" target="Latina" weight="0.0169679173987" />
+      <edge id="1367" source="Blowjob" target="Kissing" weight="0.0334044588331" />
+      <edge id="1368" source="Blowjob" target="DP" weight="0.0188213438928" />
+      <edge id="1369" source="Blowjob" target="Creampie" weight="0.0198234698307" />
+      <edge id="1370" source="Blowjob" target="HD" weight="0.0276764142298" />
+      <edge id="1371" source="Blowjob" target="Facial" weight="0.154023939276" />
+      <edge id="1372" source="Blowjob" target="College" weight="0.00970237645221" />
+      <edge id="1373" source="Blowjob" target="3D" weight="0.000155086848635" />
+      <edge id="1374" source="Blowjob" target="Lesbian" weight="0.00389579726114" />
+      <edge id="1375" source="Blowjob" target="Solo girl" weight="0.00257794387349" />
+      <edge id="1376" source="Blowjob" target="Instructional" weight="0.00306756307677" />
+      <edge id="1377" source="Blowjob" target="Romantic" weight="0.0134854512247" />
+      <edge id="1378" source="Blowjob" target="Voyeur" weight="0.00955523814215" />
+      <edge id="1379" source="Blowjob" target="Cumshots" weight="0.189629196555" />
+      <edge id="1380" source="Blowjob" target="Interracial" weight="0.0369095385738" />
+      <edge id="1381" source="Blowjob" target="Orgy" weight="0.0667553431328" />
+      <edge id="1382" source="Blowjob" target="Mature" weight="0.0175601147143" />
+      <edge id="1383" source="Blowjob" target="BBW" weight="0.00874433237716" />
+      <edge id="1384" source="Blowjob" target="Swallow" weight="0.0850222063403" />
+      <edge id="1385" source="Blowjob" target="Young/Old" weight="0.0343332046595" />
+      <edge id="1386" source="Blowjob" target="Massage" weight="0.00145914396887" />
+      <edge id="1387" source="Blowjob" target="Masturbation" weight="0.00669181564704" />
+      <edge id="1388" source="Blowjob" target="MILF" weight="0.0390231069409" />
+      <edge id="1389" source="Blowjob" target="Brunette" weight="0.247356748672" />
+      <edge id="1390" source="Blowjob" target="Squirting" weight="0.00561454900525" />
+      <edge id="1391" source="Blowjob" target="Straight Sex" weight="0.304067602406" />
+      <edge id="1392" source="Blowjob" target="German" weight="0.080361118983" />
+      <edge id="1393" source="Blowjob" target="Bisexual" weight="0.00418482999128" />
+      <edge id="1394" source="Blowjob" target="Dildos/Toys" weight="0.0104252400549" />
+      <edge id="1395" source="Blowjob" target="Handjob" weight="0.027490480285" />
+      <edge id="1396" source="Blowjob" target="Couples" weight="0.113953593764" />
+      <edge id="1397" source="Blowjob" target="Fantasy" weight="0.0392014428135" />
+      <edge id="1398" source="Blowjob" target="Fingering" weight="0.0228170075991" />
+      <edge id="1399" source="Blowjob" target="Asian" weight="0.0259980110811" />
+      <edge id="1400" source="Blowjob" target="Pantyhose" weight="0.00799758563453" />
+      <edge id="1401" source="Blowjob" target="Blonde" weight="0.205430669931" />
+      <edge id="1402" source="Blowjob" target="Hentai" weight="0.000757901119167" />
+      <edge id="1403" source="Blowjob" target="Rimming" weight="0.0140805334701" />
+      <edge id="1404" source="Creampie" target="Kissing" weight="0.0227644492912" />
+      <edge id="1405" source="Creampie" target="Swallow" weight="0.0120776050366" />
+      <edge id="1406" source="Creampie" target="DP" weight="0.0143905597928" />
+      <edge id="1407" source="Creampie" target="Solo girl" weight="0.00193382036957" />
+      <edge id="1408" source="Creampie" target="HD" weight="0.0302476190476" />
+      <edge id="1409" source="Creampie" target="Facial" weight="0.00906368221942" />
+      <edge id="1410" source="Creampie" target="College" weight="0.0285822449366" />
+      <edge id="1411" source="Creampie" target="Lesbian" weight="0.00355131031105" />
+      <edge id="1412" source="Creampie" target="Instructional" weight="0.00239338555265" />
+      <edge id="1413" source="Creampie" target="Romantic" weight="0.0365143764332" />
+      <edge id="1414" source="Creampie" target="Voyeur" weight="0.00521409385369" />
+      <edge id="1415" source="Creampie" target="Cumshots" weight="0.0171454019149" />
+      <edge id="1416" source="Creampie" target="Interracial" weight="0.0248394408765" />
+      <edge id="1417" source="Creampie" target="Orgy" weight="0.0118857689853" />
+      <edge id="1418" source="Creampie" target="Mature" weight="0.0118848490184" />
+      <edge id="1419" source="Creampie" target="BBW" weight="0.0165382872678" />
+      <edge id="1420" source="Creampie" target="Young/Old" weight="0.0178038777032" />
+      <edge id="1421" source="Creampie" target="Massage" weight="0.00380143112701" />
+      <edge id="1422" source="Creampie" target="Masturbation" weight="0.0031129280276" />
+      <edge id="1423" source="Creampie" target="MILF" weight="0.0199808184143" />
+      <edge id="1424" source="Creampie" target="Brunette" weight="0.0233694038913" />
+      <edge id="1425" source="Creampie" target="Squirting" weight="0.0200497357787" />
+      <edge id="1426" source="Creampie" target="Straight Sex" weight="0.0428801484838" />
+      <edge id="1427" source="Creampie" target="German" weight="0.00563455862624" />
+      <edge id="1428" source="Creampie" target="Bisexual" weight="0.0128365127474" />
+      <edge id="1429" source="Creampie" target="Dildos/Toys" weight="0.00588200344602" />
+      <edge id="1430" source="Creampie" target="Handjob" weight="0.0046095823439" />
+      <edge id="1431" source="Creampie" target="Couples" weight="0.0290388837736" />
+      <edge id="1432" source="Creampie" target="Fantasy" weight="0.00972160848431" />
+      <edge id="1433" source="Creampie" target="Fingering" weight="0.00954710901605" />
+      <edge id="1434" source="Creampie" target="Asian" weight="0.0288852988691" />
+      <edge id="1435" source="Creampie" target="Blonde" weight="0.0274459372568" />
+      <edge id="1436" source="Creampie" target="Hentai" weight="0.00140731805388" />
+      <edge id="1437" source="Creampie" target="Rimming" weight="0.00635767022149" />
+      <edge id="1438" source="Creampie" target="Pantyhose" weight="0.00683792274995" />
+      <edge id="1439" source="Creampie" target="Latina" weight="0.00886829913964" />
+      <edge id="1440" source="DP" target="Latina" weight="0.00515833213927" />
+      <edge id="1441" source="DP" target="Kissing" weight="0.00480839283112" />
+      <edge id="1442" source="DP" target="Swallow" weight="0.00776268367064" />
+      <edge id="1443" source="DP" target="HD" weight="0.00712380952381" />
+      <edge id="1444" source="DP" target="Solo girl" weight="0.00189719832341" />
+      <edge id="1445" source="DP" target="Facial" weight="0.028070471213" />
+      <edge id="1446" source="DP" target="College" weight="0.0127989928661" />
+      <edge id="1447" source="DP" target="Lesbian" weight="0.0023498031246" />
+      <edge id="1448" source="DP" target="Instructional" weight="0.00300902708124" />
+      <edge id="1449" source="DP" target="Romantic" weight="0.0063025210084" />
+      <edge id="1450" source="DP" target="Voyeur" weight="0.00243859954712" />
+      <edge id="1451" source="DP" target="Cumshots" weight="0.0182143063001" />
+      <edge id="1452" source="DP" target="Interracial" weight="0.0239904038385" />
+      <edge id="1453" source="DP" target="Orgy" weight="0.159562211982" />
+      <edge id="1454" source="DP" target="Mature" weight="0.00619223659889" />
+      <edge id="1455" source="DP" target="BBW" weight="0.00734408861064" />
+      <edge id="1456" source="DP" target="Young/Old" weight="0.00929822844279" />
+      <edge id="1457" source="DP" target="Massage" weight="0.00077339520495" />
+      <edge id="1458" source="DP" target="Masturbation" weight="0.00199333001112" />
+      <edge id="1459" source="DP" target="MILF" weight="0.00955149501661" />
+      <edge id="1460" source="DP" target="Brunette" weight="0.0333407177669" />
+      <edge id="1461" source="DP" target="Squirting" weight="0.00812457684496" />
+      <edge id="1462" source="DP" target="Straight Sex" weight="0.0159686571197" />
+      <edge id="1463" source="DP" target="German" weight="0.0430255967788" />
+      <edge id="1464" source="DP" target="Bisexual" weight="0.0113613713375" />
+      <edge id="1465" source="DP" target="Dildos/Toys" weight="0.00740603591927" />
+      <edge id="1466" source="DP" target="Handjob" weight="0.00228310502283" />
+      <edge id="1467" source="DP" target="Couples" weight="0.00476327944573" />
+      <edge id="1468" source="DP" target="Fantasy" weight="0.00871811430417" />
+      <edge id="1469" source="DP" target="Fingering" weight="0.00734885444328" />
+      <edge id="1470" source="DP" target="Asian" weight="0.00842826101271" />
+      <edge id="1471" source="DP" target="Blonde" weight="0.0285901956717" />
+      <edge id="1472" source="DP" target="Hentai" weight="0.00183234081539" />
+      <edge id="1473" source="DP" target="Rimming" weight="0.00678997892765" />
+      <edge id="1474" source="DP" target="Pantyhose" weight="0.0056086414624" />
+      <edge id="1475" source="Facial" target="Kissing" weight="0.0177809960576" />
+      <edge id="1476" source="Facial" target="HD" weight="0.0182836174991" />
+      <edge id="1477" source="Facial" target="College" weight="0.0111811926606" />
+      <edge id="1478" source="Facial" target="3D" weight="0.000108601216334" />
+      <edge id="1479" source="Facial" target="Lesbian" weight="0.00200055829534" />
+      <edge id="1480" source="Facial" target="Instructional" weight="0.00205465379084" />
+      <edge id="1481" source="Facial" target="Romantic" weight="0.00758683729433" />
+      <edge id="1482" source="Facial" target="Swallow" weight="0.155019510465" />
+      <edge id="1483" source="Facial" target="Voyeur" weight="0.00841146061509" />
+      <edge id="1484" source="Facial" target="Solo girl" weight="0.00183034142907" />
+      <edge id="1485" source="Facial" target="Cumshots" weight="0.291370278467" />
+      <edge id="1486" source="Facial" target="Interracial" weight="0.0314635718891" />
+      <edge id="1487" source="Facial" target="Orgy" weight="0.0682961897915" />
+      <edge id="1488" source="Facial" target="Mature" weight="0.0132740668575" />
+      <edge id="1489" source="Facial" target="BBW" weight="0.00785097423453" />
+      <edge id="1490" source="Facial" target="Young/Old" weight="0.0206467187599" />
+      <edge id="1491" source="Facial" target="Massage" weight="0.000311429461227" />
+      <edge id="1492" source="Facial" target="Masturbation" weight="0.00459885973478" />
+      <edge id="1493" source="Facial" target="MILF" weight="0.0380825411546" />
+      <edge id="1494" source="Facial" target="Brunette" weight="0.0918724331998" />
+      <edge id="1495" source="Facial" target="Squirting" weight="0.0055817947617" />
+      <edge id="1496" source="Facial" target="Straight Sex" weight="0.100101497082" />
+      <edge id="1497" source="Facial" target="German" weight="0.0408732406641" />
+      <edge id="1498" source="Facial" target="Bisexual" weight="0.00296406076325" />
+      <edge id="1499" source="Facial" target="Dildos/Toys" weight="0.00780608052588" />
+      <edge id="1500" source="Facial" target="Handjob" weight="0.0148873169929" />
+      <edge id="1501" source="Facial" target="Couples" weight="0.0510122322526" />
+      <edge id="1502" source="Facial" target="Fantasy" weight="0.0362631669832" />
+      <edge id="1503" source="Facial" target="Fingering" weight="0.013829542844" />
+      <edge id="1504" source="Facial" target="Asian" weight="0.0128839959617" />
+      <edge id="1505" source="Facial" target="Pantyhose" weight="0.0080875356803" />
+      <edge id="1506" source="Facial" target="Blonde" weight="0.0887376199675" />
+      <edge id="1507" source="Facial" target="Hentai" weight="0.00128521997034" />
+      <edge id="1508" source="Facial" target="Rimming" weight="0.0139169019766" />
+      <edge id="1509" source="Facial" target="Latina" weight="0.0149431682696" />
+      <edge id="1510" source="College" target="Kissing" weight="0.030238002341" />
+      <edge id="1511" source="College" target="Handjob" weight="0.00790914621781" />
+      <edge id="1512" source="College" target="HD" weight="0.0268906172431" />
+      <edge id="1513" source="College" target="Lesbian" weight="0.0132303511407" />
+      <edge id="1514" source="College" target="Instructional" weight="0.00760456273764" />
+      <edge id="1515" source="College" target="Romantic" weight="0.0693590869183" />
+      <edge id="1516" source="College" target="Voyeur" weight="0.00975609756098" />
+      <edge id="1517" source="College" target="Cumshots" weight="0.00981502453756" />
+      <edge id="1518" source="College" target="Interracial" weight="0.00571095571096" />
+      <edge id="1519" source="College" target="Orgy" weight="0.0174056787242" />
+      <edge id="1520" source="College" target="Mature" weight="0.00804522722331" />
+      <edge id="1521" source="College" target="BBW" weight="0.0228753219209" />
+      <edge id="1522" source="College" target="Swallow" weight="0.0165378392953" />
+      <edge id="1523" source="College" target="Young/Old" weight="0.0330205487588" />
+      <edge id="1524" source="College" target="Massage" weight="0.00890075656431" />
+      <edge id="1525" source="College" target="Masturbation" weight="0.00356017514425" />
+      <edge id="1526" source="College" target="MILF" weight="0.0168837433671" />
+      <edge id="1527" source="College" target="Brunette" weight="0.0107870894677" />
+      <edge id="1528" source="College" target="Squirting" weight="0.02527161077" />
+      <edge id="1529" source="College" target="Straight Sex" weight="0.0120366724788" />
+      <edge id="1530" source="College" target="German" weight="0.00285350009107" />
+      <edge id="1531" source="College" target="Bisexual" weight="0.037803780378" />
+      <edge id="1532" source="College" target="Dildos/Toys" weight="0.0039590443686" />
+      <edge id="1533" source="College" target="Solo girl" weight="0.00442857142857" />
+      <edge id="1534" source="College" target="Couples" weight="0.0209041891331" />
+      <edge id="1535" source="College" target="Fantasy" weight="0.0332292595897" />
+      <edge id="1536" source="College" target="Fingering" weight="0.00899354661541" />
+      <edge id="1537" source="College" target="Asian" weight="0.0279882944399" />
+      <edge id="1538" source="College" target="Pantyhose" weight="0.00686641697878" />
+      <edge id="1539" source="College" target="Blonde" weight="0.0181647126936" />
+      <edge id="1540" source="College" target="Hentai" weight="0.00546647230321" />
+      <edge id="1541" source="College" target="Rimming" weight="0.00864012021037" />
+      <edge id="1542" source="College" target="Latina" weight="0.0140845070423" />
+      <edge id="1543" source="3D" target="Kissing" weight="0.000255885363357" />
+      <edge id="1544" source="3D" target="HD" weight="0.0017086715079" />
+      <edge id="1545" source="3D" target="Solo girl" weight="5.07099391481e-05" />
+      <edge id="1546" source="3D" target="Voyeur" weight="0.000361402240694" />
+      <edge id="1547" source="3D" target="Cumshots" weight="6.81338148123e-05" />
+      <edge id="1548" source="3D" target="Mature" weight="0.000126598303583" />
+      <edge id="1549" source="3D" target="Brunette" weight="8.73973081629e-05" />
+      <edge id="1550" source="3D" target="Straight Sex" weight="0.000173370319001" />
+      <edge id="1551" source="3D" target="Dildos/Toys" weight="7.49906261717e-05" />
+      <edge id="1552" source="3D" target="Couples" weight="0.000182932406476" />
+      <edge id="1553" source="3D" target="Fantasy" weight="0.000306748466258" />
+      <edge id="1554" source="3D" target="Blonde" weight="7.47272455537e-05" />
+      <edge id="1555" source="3D" target="Hentai" weight="0.00872727272727" />
+      <edge id="1556" source="Lesbian" target="Solo girl" weight="0.00814721610569" />
+      <edge id="1557" source="Lesbian" target="HD" weight="0.0662812183346" />
+      <edge id="1558" source="Lesbian" target="Instructional" weight="0.00232907588279" />
+      <edge id="1559" source="Lesbian" target="Romantic" weight="0.0165599777345" />
+      <edge id="1560" source="Lesbian" target="Swallow" weight="0.00229288601943" />
+      <edge id="1561" source="Lesbian" target="Voyeur" weight="0.00292319957481" />
+      <edge id="1562" source="Lesbian" target="Cumshots" weight="0.00267320115839" />
+      <edge id="1563" source="Lesbian" target="Interracial" weight="0.00745884773663" />
+      <edge id="1564" source="Lesbian" target="Orgy" weight="0.0128144505391" />
+      <edge id="1565" source="Lesbian" target="Mature" weight="0.0152070263488" />
+      <edge id="1566" source="Lesbian" target="BBW" weight="0.0145525381001" />
+      <edge id="1567" source="Lesbian" target="Kissing" weight="0.102607632758" />
+      <edge id="1568" source="Lesbian" target="Young/Old" weight="0.0330091984231" />
+      <edge id="1569" source="Lesbian" target="Massage" weight="0.00662302070646" />
+      <edge id="1570" source="Lesbian" target="Masturbation" weight="0.017581093871" />
+      <edge id="1571" source="Lesbian" target="MILF" weight="0.0232779549674" />
+      <edge id="1572" source="Lesbian" target="Brunette" weight="0.0226415921445" />
+      <edge id="1573" source="Lesbian" target="Squirting" weight="0.0176290580096" />
+      <edge id="1574" source="Lesbian" target="Straight Sex" weight="0.00460119417039" />
+      <edge id="1575" source="Lesbian" target="German" weight="0.0165766299119" />
+      <edge id="1576" source="Lesbian" target="Bisexual" weight="0.0154984149348" />
+      <edge id="1577" source="Lesbian" target="Dildos/Toys" weight="0.0971741268009" />
+      <edge id="1578" source="Lesbian" target="Handjob" weight="0.00113150616042" />
+      <edge id="1579" source="Lesbian" target="Couples" weight="0.0042738732516" />
+      <edge id="1580" source="Lesbian" target="Fantasy" weight="0.00782260149987" />
+      <edge id="1581" source="Lesbian" target="Fingering" weight="0.108456120641" />
+      <edge id="1582" source="Lesbian" target="Asian" weight="0.0182118521578" />
+      <edge id="1583" source="Lesbian" target="Pantyhose" weight="0.00688675896344" />
+      <edge id="1584" source="Lesbian" target="Blonde" weight="0.0410630592245" />
+      <edge id="1585" source="Lesbian" target="Hentai" weight="0.00189933523267" />
+      <edge id="1586" source="Lesbian" target="Rimming" weight="0.0111934766494" />
+      <edge id="1587" source="Lesbian" target="Latina" weight="0.00491521258294" />
+      <edge id="1588" source="HD" target="Solo girl" weight="0.0281208619237" />
+      <edge id="1589" source="HD" target="Instructional" weight="0.00548944016091" />
+      <edge id="1590" source="HD" target="Romantic" weight="0.0219237925734" />
+      <edge id="1591" source="HD" target="Voyeur" weight="0.00511339240408" />
+      <edge id="1592" source="HD" target="Cumshots" weight="0.0166563183327" />
+      <edge id="1593" source="HD" target="Interracial" weight="0.0102903344359" />
+      <edge id="1594" source="HD" target="Orgy" weight="0.0133329120723" />
+      <edge id="1595" source="HD" target="Mature" weight="0.0159221001382" />
+      <edge id="1596" source="HD" target="BBW" weight="0.0213915298185" />
+      <edge id="1597" source="HD" target="Kissing" weight="0.0117385906167" />
+      <edge id="1598" source="HD" target="Swallow" weight="0.00619994833376" />
+      <edge id="1599" source="HD" target="Young/Old" weight="0.0275300898457" />
+      <edge id="1600" source="HD" target="Massage" weight="0.0128101802757" />
+      <edge id="1601" source="HD" target="Masturbation" weight="0.0249950009998" />
+      <edge id="1602" source="HD" target="MILF" weight="0.0313743102785" />
+      <edge id="1603" source="HD" target="Brunette" weight="0.026618898343" />
+      <edge id="1604" source="HD" target="Squirting" weight="0.0176463668091" />
+      <edge id="1605" source="HD" target="Straight Sex" weight="0.0244570534142" />
+      <edge id="1606" source="HD" target="German" weight="0.0144202628638" />
+      <edge id="1607" source="HD" target="Bisexual" weight="0.016668018493" />
+      <edge id="1608" source="HD" target="Dildos/Toys" weight="0.01751043622" />
+      <edge id="1609" source="HD" target="Handjob" weight="0.00339750849377" />
+      <edge id="1610" source="HD" target="Couples" weight="0.0155094463906" />
+      <edge id="1611" source="HD" target="Fantasy" weight="0.00826033502382" />
+      <edge id="1612" source="HD" target="Fingering" weight="0.0141620111732" />
+      <edge id="1613" source="HD" target="Asian" weight="0.0348465754228" />
+      <edge id="1614" source="HD" target="Pantyhose" weight="0.00485515455575" />
+      <edge id="1615" source="HD" target="Blonde" weight="0.0396656217346" />
+      <edge id="1616" source="HD" target="Hentai" weight="0.000451597011249" />
+      <edge id="1617" source="HD" target="Rimming" weight="0.00239303544168" />
+      <edge id="1618" source="HD" target="Latina" weight="0.0103995211731" />
+      <edge id="1619" source="Solo girl" target="Latina" weight="0.00661535800761" />
+      <edge id="1620" source="Solo girl" target="Instructional" weight="0.00470973179317" />
+      <edge id="1621" source="Solo girl" target="Romantic" weight="0.0039627039627" />
+      <edge id="1622" source="Solo girl" target="Swallow" weight="0.000978182282142" />
+      <edge id="1623" source="Solo girl" target="Voyeur" weight="0.0180296796265" />
+      <edge id="1624" source="Solo girl" target="MILF" weight="0.0316526915678" />
+      <edge id="1625" source="Solo girl" target="Interracial" weight="0.000528381642512" />
+      <edge id="1626" source="Solo girl" target="Orgy" weight="0.000918143936719" />
+      <edge id="1627" source="Solo girl" target="Mature" weight="0.0296537863562" />
+      <edge id="1628" source="Solo girl" target="BBW" weight="0.0195356152477" />
+      <edge id="1629" source="Solo girl" target="Kissing" weight="0.00212001903691" />
+      <edge id="1630" source="Solo girl" target="Young/Old" weight="0.00563774641492" />
+      <edge id="1631" source="Solo girl" target="Massage" weight="9.92752903802e-05" />
+      <edge id="1632" source="Solo girl" target="Masturbation" weight="0.448802487273" />
+      <edge id="1633" source="Solo girl" target="Cumshots" weight="0.00292622369354" />
+      <edge id="1634" source="Solo girl" target="Brunette" weight="0.119393318988" />
+      <edge id="1635" source="Solo girl" target="Squirting" weight="0.0428946874413" />
+      <edge id="1636" source="Solo girl" target="Straight Sex" weight="0.00359578194284" />
+      <edge id="1637" source="Solo girl" target="German" weight="0.0239321327579" />
+      <edge id="1638" source="Solo girl" target="Bisexual" weight="0.00168982350732" />
+      <edge id="1639" source="Solo girl" target="Dildos/Toys" weight="0.26854807318" />
+      <edge id="1640" source="Solo girl" target="Handjob" weight="0.00236873272799" />
+      <edge id="1641" source="Solo girl" target="Couples" weight="0.00179199575231" />
+      <edge id="1642" source="Solo girl" target="Fantasy" weight="0.00878214893808" />
+      <edge id="1643" source="Solo girl" target="Fingering" weight="0.325925925926" />
+      <edge id="1644" source="Solo girl" target="Asian" weight="0.0165448868574" />
+      <edge id="1645" source="Solo girl" target="Pantyhose" weight="0.0184809882262" />
+      <edge id="1646" source="Solo girl" target="Blonde" weight="0.08954234439" />
+      <edge id="1647" source="Solo girl" target="Hentai" weight="0.000969932104753" />
+      <edge id="1648" source="Solo girl" target="Rimming" weight="0.000632511068944" />
+      <edge id="1649" source="Instructional" target="Latina" weight="0.00263100197325" />
+      <edge id="1650" source="Instructional" target="Romantic" weight="0.0868896578239" />
+      <edge id="1651" source="Instructional" target="Swallow" weight="0.00436862908259" />
+      <edge id="1652" source="Instructional" target="Voyeur" weight="0.00637910085055" />
+      <edge id="1653" source="Instructional" target="Cumshots" weight="0.00151315789474" />
+      <edge id="1654" source="Instructional" target="Interracial" weight="0.00231243576567" />
+      <edge id="1655" source="Instructional" target="Orgy" weight="0.00197566808776" />
+      <edge id="1656" source="Instructional" target="Mature" weight="0.0017793594306" />
+      <edge id="1657" source="Instructional" target="BBW" weight="0.00287745429926" />
+      <edge id="1658" source="Instructional" target="Kissing" weight="0.00906207521522" />
+      <edge id="1659" source="Instructional" target="Young/Old" weight="0.0029310564547" />
+      <edge id="1660" source="Instructional" target="Massage" weight="0.00208768267223" />
+      <edge id="1661" source="Instructional" target="Masturbation" weight="0.00202968413041" />
+      <edge id="1662" source="Instructional" target="MILF" weight="0.00237358101135" />
+      <edge id="1663" source="Instructional" target="Brunette" weight="0.00204005401833" />
+      <edge id="1664" source="Instructional" target="Squirting" weight="0.00630011454754" />
+      <edge id="1665" source="Instructional" target="Straight Sex" weight="0.00376852142633" />
+      <edge id="1666" source="Instructional" target="German" weight="0.00102073365231" />
+      <edge id="1667" source="Instructional" target="Bisexual" weight="0.00650095602294" />
+      <edge id="1668" source="Instructional" target="Dildos/Toys" weight="0.00223826714801" />
+      <edge id="1669" source="Instructional" target="Handjob" weight="0.013206162876" />
+      <edge id="1670" source="Instructional" target="Couples" weight="0.0168290522586" />
+      <edge id="1671" source="Instructional" target="Fantasy" weight="0.0082119205298" />
+      <edge id="1672" source="Instructional" target="Fingering" weight="0.00427195713562" />
+      <edge id="1673" source="Instructional" target="Asian" weight="0.0021018215787" />
+      <edge id="1674" source="Instructional" target="Blonde" weight="0.00363810083787" />
+      <edge id="1675" source="Instructional" target="Hentai" weight="0.00363636363636" />
+      <edge id="1676" source="Instructional" target="Rimming" weight="0.010331702012" />
+      <edge id="1677" source="Instructional" target="Pantyhose" weight="0.00587002096436" />
+      <edge id="1678" source="Romantic" target="Latina" weight="0.0119521912351" />
+      <edge id="1679" source="Romantic" target="Squirting" weight="0.0204821847664" />
+      <edge id="1680" source="Romantic" target="Swallow" weight="0.0117822768005" />
+      <edge id="1681" source="Romantic" target="Voyeur" weight="0.0128205128205" />
+      <edge id="1682" source="Romantic" target="MILF" weight="0.0150660874388" />
+      <edge id="1683" source="Romantic" target="Interracial" weight="0.00487426609062" />
+      <edge id="1684" source="Romantic" target="Orgy" weight="0.00516176606139" />
+      <edge id="1685" source="Romantic" target="Mature" weight="0.00903708320349" />
+      <edge id="1686" source="Romantic" target="BBW" weight="0.0184031710079" />
+      <edge id="1687" source="Romantic" target="Kissing" weight="0.108034849952" />
+      <edge id="1688" source="Romantic" target="Young/Old" weight="0.0356980961015" />
+      <edge id="1689" source="Romantic" target="Massage" weight="0.00893854748603" />
+      <edge id="1690" source="Romantic" target="Masturbation" weight="0.00361794500724" />
+      <edge id="1691" source="Romantic" target="Cumshots" weight="0.00948766603416" />
+      <edge id="1692" source="Romantic" target="Brunette" weight="0.0172243955982" />
+      <edge id="1693" source="Romantic" target="Straight Sex" weight="0.0234021632252" />
+      <edge id="1694" source="Romantic" target="German" weight="0.00378787878788" />
+      <edge id="1695" source="Romantic" target="Bisexual" weight="0.0279314888011" />
+      <edge id="1696" source="Romantic" target="Dildos/Toys" weight="0.00410922587487" />
+      <edge id="1697" source="Romantic" target="Handjob" weight="0.0134831460674" />
+      <edge id="1698" source="Romantic" target="Couples" weight="0.0745048461863" />
+      <edge id="1699" source="Romantic" target="Fantasy" weight="0.0453141091658" />
+      <edge id="1700" source="Romantic" target="Fingering" weight="0.0128453870342" />
+      <edge id="1701" source="Romantic" target="Asian" weight="0.0262699564586" />
+      <edge id="1702" source="Romantic" target="Pantyhose" weight="0.00686247598133" />
+      <edge id="1703" source="Romantic" target="Blonde" weight="0.0221745350501" />
+      <edge id="1704" source="Romantic" target="Hentai" weight="0.00376293508937" />
+      <edge id="1705" source="Romantic" target="Rimming" weight="0.00805931656995" />
+      <edge id="1706" source="Voyeur" target="Latina" weight="0.0055617352614" />
+      <edge id="1707" source="Voyeur" target="Kissing" weight="0.00975768417629" />
+      <edge id="1708" source="Voyeur" target="Swallow" weight="0.00549870169543" />
+      <edge id="1709" source="Voyeur" target="MILF" weight="0.0213751335946" />
+      <edge id="1710" source="Voyeur" target="Interracial" weight="0.00367569838269" />
+      <edge id="1711" source="Voyeur" target="Orgy" weight="0.00467454577527" />
+      <edge id="1712" source="Voyeur" target="Mature" weight="0.00820401304735" />
+      <edge id="1713" source="Voyeur" target="BBW" weight="0.00536719465899" />
+      <edge id="1714" source="Voyeur" target="Young/Old" weight="0.0158311345646" />
+      <edge id="1715" source="Voyeur" target="Massage" weight="0.000313087038197" />
+      <edge id="1716" source="Voyeur" target="Masturbation" weight="0.0126924760275" />
+      <edge id="1717" source="Voyeur" target="Cumshots" weight="0.0196384601525" />
+      <edge id="1718" source="Voyeur" target="Brunette" weight="0.0125221141088" />
+      <edge id="1719" source="Voyeur" target="Squirting" weight="0.00822809031764" />
+      <edge id="1720" source="Voyeur" target="Straight Sex" weight="0.0140930194225" />
+      <edge id="1721" source="Voyeur" target="German" weight="0.00605501412837" />
+      <edge id="1722" source="Voyeur" target="Bisexual" weight="0.00804227941176" />
+      <edge id="1723" source="Voyeur" target="Dildos/Toys" weight="0.0065662417922" />
+      <edge id="1724" source="Voyeur" target="Handjob" weight="0.00975860297894" />
+      <edge id="1725" source="Voyeur" target="Couples" weight="0.0251742835012" />
+      <edge id="1726" source="Voyeur" target="Fantasy" weight="0.0643062200957" />
+      <edge id="1727" source="Voyeur" target="Fingering" weight="0.0182469859889" />
+      <edge id="1728" source="Voyeur" target="Asian" weight="0.00480835279571" />
+      <edge id="1729" source="Voyeur" target="Pantyhose" weight="0.00654228252968" />
+      <edge id="1730" source="Voyeur" target="Blonde" weight="0.014520069808" />
+      <edge id="1731" source="Voyeur" target="Hentai" weight="0.00217450394129" />
+      <edge id="1732" source="Voyeur" target="Rimming" weight="0.0041689827682" />
+      <edge id="1733" source="MILF" target="Swallow" weight="0.0175562348146" />
+      <edge id="1734" source="MILF" target="Cumshots" weight="0.038883704395" />
+      <edge id="1735" source="MILF" target="Interracial" weight="0.0172117039587" />
+      <edge id="1736" source="MILF" target="Orgy" weight="0.0181412384114" />
+      <edge id="1737" source="MILF" target="Mature" weight="0.251696576685" />
+      <edge id="1738" source="MILF" target="BBW" weight="0.0362084191934" />
+      <edge id="1739" source="MILF" target="Kissing" weight="0.0170188740119" />
+      <edge id="1740" source="MILF" target="Young/Old" weight="0.173305022697" />
+      <edge id="1741" source="MILF" target="Massage" weight="0.00114774624374" />
+      <edge id="1742" source="MILF" target="Masturbation" weight="0.0322120681833" />
+      <edge id="1743" source="MILF" target="Brunette" weight="0.0339532871972" />
+      <edge id="1744" source="MILF" target="Squirting" weight="0.0171722454672" />
+      <edge id="1745" source="MILF" target="Straight Sex" weight="0.0699834490255" />
+      <edge id="1746" source="MILF" target="German" weight="0.0599635506956" />
+      <edge id="1747" source="MILF" target="Bisexual" weight="0.0103971524916" />
+      <edge id="1748" source="MILF" target="Dildos/Toys" weight="0.0364029724391" />
+      <edge id="1749" source="MILF" target="Handjob" weight="0.00704225352113" />
+      <edge id="1750" source="MILF" target="Couples" weight="0.0294117647059" />
+      <edge id="1751" source="MILF" target="Fantasy" weight="0.0337049520353" />
+      <edge id="1752" source="MILF" target="Fingering" weight="0.0400925576124" />
+      <edge id="1753" source="MILF" target="Asian" weight="0.0130070334329" />
+      <edge id="1754" source="MILF" target="Blonde" weight="0.0694771123575" />
+      <edge id="1755" source="MILF" target="Hentai" weight="0.00109170305677" />
+      <edge id="1756" source="MILF" target="Rimming" weight="0.00744541704397" />
+      <edge id="1757" source="MILF" target="Pantyhose" weight="0.0166650611694" />
+      <edge id="1758" source="MILF" target="Latina" weight="0.00943770322785" />
+      <edge id="1759" source="Interracial" target="Latina" weight="0.0144424645972" />
+      <edge id="1760" source="Interracial" target="Kissing" weight="0.0169201520913" />
+      <edge id="1761" source="Interracial" target="Fingering" weight="0.00630378226936" />
+      <edge id="1762" source="Interracial" target="Swallow" weight="0.0142909490656" />
+      <edge id="1763" source="Interracial" target="Orgy" weight="0.0269676000776" />
+      <edge id="1764" source="Interracial" target="Mature" weight="0.0118481779982" />
+      <edge id="1765" source="Interracial" target="BBW" weight="0.0183263598326" />
+      <edge id="1766" source="Interracial" target="Young/Old" weight="0.0118288049323" />
+      <edge id="1767" source="Interracial" target="Massage" weight="0.000260348867482" />
+      <edge id="1768" source="Interracial" target="Masturbation" weight="0.00133774790141" />
+      <edge id="1769" source="Interracial" target="Cumshots" weight="0.023846997663" />
+      <edge id="1770" source="Interracial" target="Brunette" weight="0.0209564483289" />
+      <edge id="1771" source="Interracial" target="Squirting" weight="0.00837036271572" />
+      <edge id="1772" source="Interracial" target="Straight Sex" weight="0.0549878965473" />
+      <edge id="1773" source="Interracial" target="German" weight="0.0135853241532" />
+      <edge id="1774" source="Interracial" target="Bisexual" weight="0.00532336617964" />
+      <edge id="1775" source="Interracial" target="Dildos/Toys" weight="0.00389085648725" />
+      <edge id="1776" source="Interracial" target="Handjob" weight="0.00367185235288" />
+      <edge id="1777" source="Interracial" target="Couples" weight="0.00687382832472" />
+      <edge id="1778" source="Interracial" target="Fantasy" weight="0.0119826804954" />
+      <edge id="1779" source="Interracial" target="Asian" weight="0.0177278534923" />
+      <edge id="1780" source="Interracial" target="Pantyhose" weight="0.00243562978427" />
+      <edge id="1781" source="Interracial" target="Blonde" weight="0.0357120809927" />
+      <edge id="1782" source="Interracial" target="Hentai" weight="0.000856898029135" />
+      <edge id="1783" source="Interracial" target="Rimming" weight="0.00708514605345" />
+      <edge id="1784" source="Orgy" target="Latina" weight="0.00516446845702" />
+      <edge id="1785" source="Orgy" target="Kissing" weight="0.0163003811532" />
+      <edge id="1786" source="Orgy" target="Fingering" weight="0.012128199216" />
+      <edge id="1787" source="Orgy" target="Swallow" weight="0.0464607151545" />
+      <edge id="1788" source="Orgy" target="Cumshots" weight="0.0606791697014" />
+      <edge id="1789" source="Orgy" target="Mature" weight="0.0148016214224" />
+      <edge id="1790" source="Orgy" target="BBW" weight="0.00944348327566" />
+      <edge id="1791" source="Orgy" target="Young/Old" weight="0.0178708195047" />
+      <edge id="1792" source="Orgy" target="Massage" weight="0.000946471763592" />
+      <edge id="1793" source="Orgy" target="Masturbation" weight="0.00176550332608" />
+      <edge id="1794" source="Orgy" target="Brunette" weight="0.0573320532703" />
+      <edge id="1795" source="Orgy" target="Squirting" weight="0.00616265949136" />
+      <edge id="1796" source="Orgy" target="Straight Sex" weight="0.0511255895366" />
+      <edge id="1797" source="Orgy" target="German" weight="0.0807038283168" />
+      <edge id="1798" source="Orgy" target="Bisexual" weight="0.0184480791175" />
+      <edge id="1799" source="Orgy" target="Dildos/Toys" weight="0.00812597557616" />
+      <edge id="1800" source="Orgy" target="Handjob" weight="0.0025430680886" />
+      <edge id="1801" source="Orgy" target="Couples" weight="0.0167923056927" />
+      <edge id="1802" source="Orgy" target="Fantasy" weight="0.0120933401465" />
+      <edge id="1803" source="Orgy" target="Asian" weight="0.0100761739466" />
+      <edge id="1804" source="Orgy" target="Pantyhose" weight="0.00344794559908" />
+      <edge id="1805" source="Orgy" target="Blonde" weight="0.0496203582869" />
+      <edge id="1806" source="Orgy" target="Hentai" weight="0.00130039011704" />
+      <edge id="1807" source="Orgy" target="Rimming" weight="0.00587163393399" />
+      <edge id="1808" source="Mature" target="Kissing" weight="0.00952465729037" />
+      <edge id="1809" source="Mature" target="Swallow" weight="0.0107851596204" />
+      <edge id="1810" source="Mature" target="Cumshots" weight="0.0144528561597" />
+      <edge id="1811" source="Mature" target="BBW" weight="0.0722236170391" />
+      <edge id="1812" source="Mature" target="Young/Old" weight="0.245526671168" />
+      <edge id="1813" source="Mature" target="Massage" weight="0.000480595938964" />
+      <edge id="1814" source="Mature" target="Masturbation" weight="0.0329291769394" />
+      <edge id="1815" source="Mature" target="Brunette" weight="0.012731593753" />
+      <edge id="1816" source="Mature" target="Squirting" weight="0.00960978450786" />
+      <edge id="1817" source="Mature" target="Straight Sex" weight="0.0349784615385" />
+      <edge id="1818" source="Mature" target="German" weight="0.083865392924" />
+      <edge id="1819" source="Mature" target="Bisexual" weight="0.00804828973843" />
+      <edge id="1820" source="Mature" target="Dildos/Toys" weight="0.0358621377625" />
+      <edge id="1821" source="Mature" target="Handjob" weight="0.00620324758256" />
+      <edge id="1822" source="Mature" target="Couples" weight="0.0153123272526" />
+      <edge id="1823" source="Mature" target="Fantasy" weight="0.0106805293006" />
+      <edge id="1824" source="Mature" target="Fingering" weight="0.0326865671642" />
+      <edge id="1825" source="Mature" target="Asian" weight="0.00800897821762" />
+      <edge id="1826" source="Mature" target="Pantyhose" weight="0.0112163780899" />
+      <edge id="1827" source="Mature" target="Blonde" weight="0.0288826042481" />
+      <edge id="1828" source="Mature" target="Hentai" weight="0.000907955964136" />
+      <edge id="1829" source="Mature" target="Rimming" weight="0.00482592209583" />
+      <edge id="1830" source="Mature" target="Latina" weight="0.00491055769905" />
+      <edge id="1831" source="BBW" target="Kissing" weight="0.0100767204855" />
+      <edge id="1832" source="BBW" target="Asian" weight="0.017949929145" />
+      <edge id="1833" source="BBW" target="Swallow" weight="0.00999560632689" />
+      <edge id="1834" source="BBW" target="Cumshots" weight="0.00896168108776" />
+      <edge id="1835" source="BBW" target="Young/Old" weight="0.0449150371446" />
+      <edge id="1836" source="BBW" target="Massage" weight="0.00120689655172" />
+      <edge id="1837" source="BBW" target="Masturbation" weight="0.0177703633858" />
+      <edge id="1838" source="BBW" target="Brunette" weight="0.00928497942387" />
+      <edge id="1839" source="BBW" target="Squirting" weight="0.0191387559809" />
+      <edge id="1840" source="BBW" target="Straight Sex" weight="0.0202364359093" />
+      <edge id="1841" source="BBW" target="German" weight="0.021959545524" />
+      <edge id="1842" source="BBW" target="Bisexual" weight="0.0210065645514" />
+      <edge id="1843" source="BBW" target="Dildos/Toys" weight="0.0213813948282" />
+      <edge id="1844" source="BBW" target="Handjob" weight="0.00436681222707" />
+      <edge id="1845" source="BBW" target="Couples" weight="0.0112309361241" />
+      <edge id="1846" source="BBW" target="Fantasy" weight="0.00863877576206" />
+      <edge id="1847" source="BBW" target="Fingering" weight="0.0150840476456" />
+      <edge id="1848" source="BBW" target="Blonde" weight="0.0157111709632" />
+      <edge id="1849" source="BBW" target="Hentai" weight="0.00222752585521" />
+      <edge id="1850" source="BBW" target="Rimming" weight="0.00419422487498" />
+      <edge id="1851" source="BBW" target="Pantyhose" weight="0.004752004752" />
+      <edge id="1852" source="BBW" target="Latina" weight="0.00857400722022" />
+      <edge id="1853" source="Kissing" target="Swallow" weight="0.0119219179877" />
+      <edge id="1854" source="Kissing" target="Young/Old" weight="0.0369870930457" />
+      <edge id="1855" source="Kissing" target="Massage" weight="0.00254335260116" />
+      <edge id="1856" source="Kissing" target="Masturbation" weight="0.00483657661062" />
+      <edge id="1857" source="Kissing" target="Cumshots" weight="0.0202714116786" />
+      <edge id="1858" source="Kissing" target="Brunette" weight="0.0322774604389" />
+      <edge id="1859" source="Kissing" target="Squirting" weight="0.00897213914686" />
+      <edge id="1860" source="Kissing" target="Straight Sex" weight="0.0338223308883" />
+      <edge id="1861" source="Kissing" target="German" weight="0.00704339816872" />
+      <edge id="1862" source="Kissing" target="Bisexual" weight="0.0100493330897" />
+      <edge id="1863" source="Kissing" target="Dildos/Toys" weight="0.0211820561203" />
+      <edge id="1864" source="Kissing" target="Handjob" weight="0.00643408635974" />
+      <edge id="1865" source="Kissing" target="Couples" weight="0.0633922627413" />
+      <edge id="1866" source="Kissing" target="Fantasy" weight="0.0317118226601" />
+      <edge id="1867" source="Kissing" target="Fingering" weight="0.0695330441439" />
+      <edge id="1868" source="Kissing" target="Asian" weight="0.0135621545186" />
+      <edge id="1869" source="Kissing" target="Pantyhose" weight="0.0074200913242" />
+      <edge id="1870" source="Kissing" target="Blonde" weight="0.0384694719472" />
+      <edge id="1871" source="Kissing" target="Hentai" weight="0.00165975103734" />
+      <edge id="1872" source="Kissing" target="Rimming" weight="0.0201716738197" />
+      <edge id="1873" source="Kissing" target="Latina" weight="0.00891530460624" />
+      <edge id="1874" source="Swallow" target="Fingering" weight="0.00516068496364" />
+      <edge id="1875" source="Swallow" target="Cumshots" weight="0.163667253964" />
+      <edge id="1876" source="Swallow" target="Young/Old" weight="0.015219174337" />
+      <edge id="1877" source="Swallow" target="Massage" weight="0.00106269925611" />
+      <edge id="1878" source="Swallow" target="Masturbation" weight="0.0024907063197" />
+      <edge id="1879" source="Swallow" target="Brunette" weight="0.0328730029786" />
+      <edge id="1880" source="Swallow" target="Squirting" weight="0.00832342449465" />
+      <edge id="1881" source="Swallow" target="Straight Sex" weight="0.0222381826404" />
+      <edge id="1882" source="Swallow" target="German" weight="0.0285884778127" />
+      <edge id="1883" source="Swallow" target="Bisexual" weight="0.00957919945262" />
+      <edge id="1884" source="Swallow" target="Dildos/Toys" weight="0.00368679775281" />
+      <edge id="1885" source="Swallow" target="Handjob" weight="0.0157577418471" />
+      <edge id="1886" source="Swallow" target="Couples" weight="0.0158402203857" />
+      <edge id="1887" source="Swallow" target="Fantasy" weight="0.0137535816619" />
+      <edge id="1888" source="Swallow" target="Asian" weight="0.0122272385252" />
+      <edge id="1889" source="Swallow" target="Pantyhose" weight="0.00549840368925" />
+      <edge id="1890" source="Swallow" target="Blonde" weight="0.0322351988119" />
+      <edge id="1891" source="Swallow" target="Hentai" weight="0.00173310225303" />
+      <edge id="1892" source="Swallow" target="Rimming" weight="0.012238452428" />
+      <edge id="1893" source="Swallow" target="Latina" weight="0.00680359435173" />
+      <edge id="1894" source="Young/Old" target="Handjob" weight="0.00761372397841" />
+      <edge id="1895" source="Young/Old" target="Latina" weight="0.00796370034262" />
+      <edge id="1896" source="Young/Old" target="Massage" weight="0.002457002457" />
+      <edge id="1897" source="Young/Old" target="Masturbation" weight="0.00796049979847" />
+      <edge id="1898" source="Young/Old" target="Cumshots" weight="0.0201326385599" />
+      <edge id="1899" source="Young/Old" target="Brunette" weight="0.0312226144871" />
+      <edge id="1900" source="Young/Old" target="Squirting" weight="0.0130941334158" />
+      <edge id="1901" source="Young/Old" target="Straight Sex" weight="0.057609915332" />
+      <edge id="1902" source="Young/Old" target="German" weight="0.0486107801554" />
+      <edge id="1903" source="Young/Old" target="Bisexual" weight="0.0189109136478" />
+      <edge id="1904" source="Young/Old" target="Dildos/Toys" weight="0.0129420617005" />
+      <edge id="1905" source="Young/Old" target="Couples" weight="0.0287366290836" />
+      <edge id="1906" source="Young/Old" target="Fantasy" weight="0.0744398428374" />
+      <edge id="1907" source="Young/Old" target="Fingering" weight="0.0212529096245" />
+      <edge id="1908" source="Young/Old" target="Asian" weight="0.0250587732421" />
+      <edge id="1909" source="Young/Old" target="Pantyhose" weight="0.00915199258573" />
+      <edge id="1910" source="Young/Old" target="Blonde" weight="0.0449389315349" />
+      <edge id="1911" source="Young/Old" target="Hentai" weight="0.00194457948469" />
+      <edge id="1912" source="Young/Old" target="Rimming" weight="0.00578603964053" />
+      <edge id="1913" source="Massage" target="Masturbation" weight="0.00016967126193" />
+      <edge id="1914" source="Massage" target="Cumshots" weight="0.00119308013522" />
+      <edge id="1915" source="Massage" target="Brunette" weight="0.000921552816496" />
+      <edge id="1916" source="Massage" target="Squirting" weight="0.00473372781065" />
+      <edge id="1917" source="Massage" target="Straight Sex" weight="0.00117142857143" />
+      <edge id="1918" source="Massage" target="Bisexual" weight="0.00842358604091" />
+      <edge id="1919" source="Massage" target="Dildos/Toys" weight="0.000290718802239" />
+      <edge id="1920" source="Massage" target="Handjob" weight="0.00725725725726" />
+      <edge id="1921" source="Massage" target="Couples" weight="0.00123369756785" />
+      <edge id="1922" source="Massage" target="Fantasy" weight="0.00572675211344" />
+      <edge id="1923" source="Massage" target="Fingering" weight="0.00123771386968" />
+      <edge id="1924" source="Massage" target="Asian" weight="0.00909810126582" />
+      <edge id="1925" source="Massage" target="Blonde" weight="0.00143625248582" />
+      <edge id="1926" source="Massage" target="Rimming" weight="0.00172711571675" />
+      <edge id="1927" source="Massage" target="Latina" weight="0.000898674455179" />
+      <edge id="1928" source="Masturbation" target="Cumshots" weight="0.0280949891307" />
+      <edge id="1929" source="Masturbation" target="Brunette" weight="0.0982836007783" />
+      <edge id="1930" source="Masturbation" target="Squirting" weight="0.0415770027204" />
+      <edge id="1931" source="Masturbation" target="Straight Sex" weight="0.00711862619303" />
+      <edge id="1932" source="Masturbation" target="German" weight="0.0245923839445" />
+      <edge id="1933" source="Masturbation" target="Bisexual" weight="0.00250920717148" />
+      <edge id="1934" source="Masturbation" target="Dildos/Toys" weight="0.252651712746" />
+      <edge id="1935" source="Masturbation" target="Handjob" weight="0.00616362313847" />
+      <edge id="1936" source="Masturbation" target="Couples" weight="0.00424171819458" />
+      <edge id="1937" source="Masturbation" target="Fantasy" weight="0.00472447043333" />
+      <edge id="1938" source="Masturbation" target="Fingering" weight="0.304673913043" />
+      <edge id="1939" source="Masturbation" target="Asian" weight="0.0158711736544" />
+      <edge id="1940" source="Masturbation" target="Pantyhose" weight="0.00979423868313" />
+      <edge id="1941" source="Masturbation" target="Blonde" weight="0.0762634396901" />
+      <edge id="1942" source="Masturbation" target="Hentai" weight="0.000956420492349" />
+      <edge id="1943" source="Masturbation" target="Rimming" weight="0.000917622523462" />
+      <edge id="1944" source="Masturbation" target="Latina" weight="0.00530653720221" />
+      <edge id="1945" source="Cumshots" target="Brunette" weight="0.0992617084881" />
+      <edge id="1946" source="Cumshots" target="Squirting" weight="0.00768418582825" />
+      <edge id="1947" source="Cumshots" target="Straight Sex" weight="0.105891413169" />
+      <edge id="1948" source="Cumshots" target="German" weight="0.0433979029678" />
+      <edge id="1949" source="Cumshots" target="Bisexual" weight="0.00468528450774" />
+      <edge id="1950" source="Cumshots" target="Dildos/Toys" weight="0.00864152325156" />
+      <edge id="1951" source="Cumshots" target="Handjob" weight="0.0440288444627" />
+      <edge id="1952" source="Cumshots" target="Couples" weight="0.064248529225" />
+      <edge id="1953" source="Cumshots" target="Fantasy" weight="0.0456667464688" />
+      <edge id="1954" source="Cumshots" target="Fingering" weight="0.0147411092685" />
+      <edge id="1955" source="Cumshots" target="Asian" weight="0.0150315547906" />
+      <edge id="1956" source="Cumshots" target="Pantyhose" weight="0.00739997491534" />
+      <edge id="1957" source="Cumshots" target="Blonde" weight="0.095556387359" />
+      <edge id="1958" source="Cumshots" target="Hentai" weight="0.00109114249037" />
+      <edge id="1959" source="Cumshots" target="Rimming" weight="0.00798701298701" />
+      <edge id="1960" source="Cumshots" target="Latina" weight="0.0108635406274" />
+      <edge id="1961" source="Brunette" target="Latina" weight="0.0257180757465" />
+      <edge id="1962" source="Brunette" target="Squirting" weight="0.0120356122225" />
+      <edge id="1963" source="Brunette" target="Straight Sex" weight="0.319415006359" />
+      <edge id="1964" source="Brunette" target="German" weight="0.0809970221683" />
+      <edge id="1965" source="Brunette" target="Bisexual" weight="0.0028455057747" />
+      <edge id="1966" source="Brunette" target="Dildos/Toys" weight="0.0770161106294" />
+      <edge id="1967" source="Brunette" target="Handjob" weight="0.018239643362" />
+      <edge id="1968" source="Brunette" target="Couples" weight="0.121273560111" />
+      <edge id="1969" source="Brunette" target="Fantasy" weight="0.0380582198484" />
+      <edge id="1970" source="Brunette" target="Fingering" weight="0.115930375556" />
+      <edge id="1971" source="Brunette" target="Asian" weight="0.0248962655602" />
+      <edge id="1972" source="Brunette" target="Pantyhose" weight="0.0120430716917" />
+      <edge id="1973" source="Brunette" target="Blonde" weight="0.123304676499" />
+      <edge id="1974" source="Brunette" target="Hentai" weight="0.000596133647486" />
+      <edge id="1975" source="Brunette" target="Rimming" weight="0.00837107963993" />
+      <edge id="1976" source="Squirting" target="Latina" weight="0.00896306598671" />
+      <edge id="1977" source="Squirting" target="Asian" weight="0.0162417763158" />
+      <edge id="1978" source="Squirting" target="Straight Sex" weight="0.00916308662788" />
+      <edge id="1979" source="Squirting" target="German" weight="0.00341161084892" />
+      <edge id="1980" source="Squirting" target="Bisexual" weight="0.020462633452" />
+      <edge id="1981" source="Squirting" target="Dildos/Toys" weight="0.0475592009525" />
+      <edge id="1982" source="Squirting" target="Handjob" weight="0.00544015825915" />
+      <edge id="1983" source="Squirting" target="Couples" weight="0.00734742840006" />
+      <edge id="1984" source="Squirting" target="Fantasy" weight="0.00999123575811" />
+      <edge id="1985" source="Squirting" target="Fingering" weight="0.0414582784943" />
+      <edge id="1986" source="Squirting" target="Pantyhose" weight="0.00763535400278" />
+      <edge id="1987" source="Squirting" target="Blonde" weight="0.0160741563672" />
+      <edge id="1988" source="Squirting" target="Hentai" weight="0.0030959752322" />
+      <edge id="1989" source="Squirting" target="Rimming" weight="0.00792811839323" />
+      <edge id="1990" source="Straight Sex" target="Handjob" weight="0.00758142018153" />
+      <edge id="1991" source="Straight Sex" target="Asian" weight="0.0329621479852" />
+      <edge id="1992" source="Straight Sex" target="German" weight="0.11586000815" />
+      <edge id="1993" source="Straight Sex" target="Bisexual" weight="0.00271205202712" />
+      <edge id="1994" source="Straight Sex" target="Dildos/Toys" weight="0.0126036979378" />
+      <edge id="1995" source="Straight Sex" target="Couples" weight="0.193755958055" />
+      <edge id="1996" source="Straight Sex" target="Fantasy" weight="0.0506403774857" />
+      <edge id="1997" source="Straight Sex" target="Fingering" weight="0.0271995499199" />
+      <edge id="1998" source="Straight Sex" target="Pantyhose" weight="0.0109235910252" />
+      <edge id="1999" source="Straight Sex" target="Blonde" weight="0.243381167201" />
+      <edge id="2000" source="Straight Sex" target="Hentai" weight="0.0011833986081" />
+      <edge id="2001" source="Straight Sex" target="Rimming" weight="0.00584347431424" />
+      <edge id="2002" source="Straight Sex" target="Latina" weight="0.0210774086556" />
+      <edge id="2003" source="German" target="Bisexual" weight="0.00293132328308" />
+      <edge id="2004" source="German" target="Dildos/Toys" weight="0.0315192576773" />
+      <edge id="2005" source="German" target="Handjob" weight="0.0056677488582" />
+      <edge id="2006" source="German" target="Couples" weight="0.0529496402878" />
+      <edge id="2007" source="German" target="Fantasy" weight="0.00877242310071" />
+      <edge id="2008" source="German" target="Fingering" weight="0.0346573064844" />
+      <edge id="2009" source="German" target="Asian" weight="0.00349286563615" />
+      <edge id="2010" source="German" target="Blonde" weight="0.0936246569559" />
+      <edge id="2011" source="German" target="Hentai" weight="0.000498225073177" />
+      <edge id="2012" source="German" target="Rimming" weight="0.0039552988448" />
+      <edge id="2013" source="German" target="Pantyhose" weight="0.00725035033205" />
+      <edge id="2014" source="German" target="Latina" weight="0.00176725753762" />
+      <edge id="2015" source="Bisexual" target="Dildos/Toys" weight="0.00774932614555" />
+      <edge id="2016" source="Bisexual" target="Handjob" weight="0.00597763208639" />
+      <edge id="2017" source="Bisexual" target="Couples" weight="0.00908287115184" />
+      <edge id="2018" source="Bisexual" target="Fantasy" weight="0.014553014553" />
+      <edge id="2019" source="Bisexual" target="Fingering" weight="0.00389627838237" />
+      <edge id="2020" source="Bisexual" target="Asian" weight="0.0156568598893" />
+      <edge id="2021" source="Bisexual" target="Pantyhose" weight="0.00550086855819" />
+      <edge id="2022" source="Bisexual" target="Blonde" weight="0.0087781647594" />
+      <edge id="2023" source="Bisexual" target="Hentai" weight="0.00367278797997" />
+      <edge id="2024" source="Bisexual" target="Rimming" weight="0.014181943964" />
+      <edge id="2025" source="Bisexual" target="Latina" weight="0.00785293592718" />
+      <edge id="2026" source="Dildos/Toys" target="Handjob" weight="0.00384076083643" />
+      <edge id="2027" source="Dildos/Toys" target="Couples" weight="0.0100997241672" />
+      <edge id="2028" source="Dildos/Toys" target="Fantasy" weight="0.00926099743445" />
+      <edge id="2029" source="Dildos/Toys" target="Fingering" weight="0.221631453757" />
+      <edge id="2030" source="Dildos/Toys" target="Asian" weight="0.0137603605054" />
+      <edge id="2031" source="Dildos/Toys" target="Blonde" weight="0.0662039652436" />
+      <edge id="2032" source="Dildos/Toys" target="Hentai" weight="0.000983077031107" />
+      <edge id="2033" source="Dildos/Toys" target="Rimming" weight="0.00975505553973" />
+      <edge id="2034" source="Dildos/Toys" target="Pantyhose" weight="0.00953164643763" />
+      <edge id="2035" source="Dildos/Toys" target="Latina" weight="0.00493665615892" />
+      <edge id="2036" source="Handjob" target="Couples" weight="0.00925660160735" />
+      <edge id="2037" source="Handjob" target="Fantasy" weight="0.0209265175719" />
+      <edge id="2038" source="Handjob" target="Fingering" weight="0.00580684596577" />
+      <edge id="2039" source="Handjob" target="Asian" weight="0.0130414837145" />
+      <edge id="2040" source="Handjob" target="Blonde" weight="0.0123941754148" />
+      <edge id="2041" source="Handjob" target="Hentai" weight="0.00244118952508" />
+      <edge id="2042" source="Handjob" target="Rimming" weight="0.00839763958239" />
+      <edge id="2043" source="Handjob" target="Pantyhose" weight="0.00666532013735" />
+      <edge id="2044" source="Handjob" target="Latina" weight="0.0054782975137" />
+      <edge id="2045" source="Couples" target="Fantasy" weight="0.0411831626849" />
+      <edge id="2046" source="Couples" target="Fingering" weight="0.022344448264" />
+      <edge id="2047" source="Couples" target="Asian" weight="0.016544773457" />
+      <edge id="2048" source="Couples" target="Blonde" weight="0.102807890528" />
+      <edge id="2049" source="Couples" target="Hentai" weight="0.000590866886132" />
+      <edge id="2050" source="Couples" target="Rimming" weight="0.00580601092896" />
+      <edge id="2051" source="Couples" target="Pantyhose" weight="0.0085952848723" />
+      <edge id="2052" source="Couples" target="Latina" weight="0.0207027674107" />
+      <edge id="2053" source="Fantasy" target="Latina" weight="0.0130699539581" />
+      <edge id="2054" source="Fantasy" target="Fingering" weight="0.0193523905894" />
+      <edge id="2055" source="Fantasy" target="Asian" weight="0.0135397814867" />
+      <edge id="2056" source="Fantasy" target="Pantyhose" weight="0.0271883289125" />
+      <edge id="2057" source="Fantasy" target="Blonde" weight="0.0451893497401" />
+      <edge id="2058" source="Fantasy" target="Hentai" weight="0.0167842374118" />
+      <edge id="2059" source="Fantasy" target="Rimming" weight="0.00834970530452" />
+      <edge id="2060" source="Fingering" target="Asian" weight="0.0189755623887" />
+      <edge id="2061" source="Fingering" target="Pantyhose" weight="0.0144817598786" />
+      <edge id="2062" source="Fingering" target="Blonde" weight="0.102139022558" />
+      <edge id="2063" source="Fingering" target="Hentai" weight="0.000561955605507" />
+      <edge id="2064" source="Fingering" target="Rimming" weight="0.0171559830594" />
+      <edge id="2065" source="Fingering" target="Latina" weight="0.00781902829175" />
+      <edge id="2066" source="Asian" target="Pantyhose" weight="0.00520413398813" />
+      <edge id="2067" source="Asian" target="Blonde" weight="0.0156985458466" />
+      <edge id="2068" source="Asian" target="Hentai" weight="0.00242149073023" />
+      <edge id="2069" source="Asian" target="Rimming" weight="0.00312214438014" />
+      <edge id="2070" source="Asian" target="Latina" weight="0.00985190364203" />
+      <edge id="2071" source="Blonde" target="Latina" weight="0.00780964407963" />
+      <edge id="2072" source="Blonde" target="Hentai" weight="0.000578264483718" />
+      <edge id="2073" source="Blonde" target="Rimming" weight="0.00817906305912" />
+      <edge id="2074" source="Blonde" target="Pantyhose" weight="0.0136098509397" />
+      <edge id="2075" source="Hentai" target="Pantyhose" weight="0.00216841344416" />
+      <edge id="2076" source="Hentai" target="Rimming" weight="0.00269541778976" />
+      <edge id="2077" source="Hentai" target="Latina" weight="0.00222852512156" />
+      <edge id="2078" source="Rimming" target="Pantyhose" weight="0.00784167289022" />
+      <edge id="2079" source="Rimming" target="Latina" weight="0.00432811211871" />
+      <edge id="2080" source="Pantyhose" target="Latina" weight="0.00501206608502" />
+    </edges>
+  </graph>
+</gexf>
